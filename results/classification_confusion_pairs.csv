@@ -1,0 +1,503 @@
+method,display_name,true_class,pred_class,count
+resnet50,ResNet-50,fully_ripe,green_immature,16
+resnet50,ResNet-50,fully_ripe,over_ripe,78
+resnet50,ResNet-50,fully_ripe,pink_turns_purple,15
+resnet50,ResNet-50,green_immature,fully_ripe,12
+resnet50,ResNet-50,green_immature,over_ripe,1
+resnet50,ResNet-50,green_immature,pale_pink,2
+resnet50,ResNet-50,green_immature,pink_turns_purple,6
+resnet50,ResNet-50,over_ripe,fully_ripe,72
+resnet50,ResNet-50,over_ripe,green_immature,3
+resnet50,ResNet-50,over_ripe,pink_turns_purple,1
+resnet50,ResNet-50,pale_pink,fully_ripe,1
+resnet50,ResNet-50,pale_pink,green_immature,16
+resnet50,ResNet-50,pale_pink,pink_turns_purple,28
+resnet50,ResNet-50,pink_turns_purple,fully_ripe,24
+resnet50,ResNet-50,pink_turns_purple,green_immature,3
+resnet50,ResNet-50,pink_turns_purple,over_ripe,1
+resnet50,ResNet-50,pink_turns_purple,pale_pink,12
+resnet50_balanced,ResNet-50 Balanced,fully_ripe,green_immature,17
+resnet50_balanced,ResNet-50 Balanced,fully_ripe,over_ripe,233
+resnet50_balanced,ResNet-50 Balanced,fully_ripe,pale_pink,3
+resnet50_balanced,ResNet-50 Balanced,fully_ripe,pink_turns_purple,25
+resnet50_balanced,ResNet-50 Balanced,green_immature,fully_ripe,11
+resnet50_balanced,ResNet-50 Balanced,green_immature,over_ripe,18
+resnet50_balanced,ResNet-50 Balanced,green_immature,pale_pink,19
+resnet50_balanced,ResNet-50 Balanced,green_immature,pink_turns_purple,13
+resnet50_balanced,ResNet-50 Balanced,over_ripe,fully_ripe,53
+resnet50_balanced,ResNet-50 Balanced,over_ripe,pink_turns_purple,3
+resnet50_balanced,ResNet-50 Balanced,pale_pink,fully_ripe,1
+resnet50_balanced,ResNet-50 Balanced,pale_pink,green_immature,14
+resnet50_balanced,ResNet-50 Balanced,pale_pink,pink_turns_purple,22
+resnet50_balanced,ResNet-50 Balanced,pink_turns_purple,fully_ripe,19
+resnet50_balanced,ResNet-50 Balanced,pink_turns_purple,over_ripe,10
+resnet50_balanced,ResNet-50 Balanced,pink_turns_purple,pale_pink,26
+efficientnetv2_s,EfficientNetV2-S,fully_ripe,green_immature,21
+efficientnetv2_s,EfficientNetV2-S,fully_ripe,over_ripe,114
+efficientnetv2_s,EfficientNetV2-S,fully_ripe,pink_turns_purple,9
+efficientnetv2_s,EfficientNetV2-S,green_immature,fully_ripe,15
+efficientnetv2_s,EfficientNetV2-S,green_immature,pale_pink,15
+efficientnetv2_s,EfficientNetV2-S,green_immature,pink_turns_purple,5
+efficientnetv2_s,EfficientNetV2-S,over_ripe,fully_ripe,73
+efficientnetv2_s,EfficientNetV2-S,over_ripe,green_immature,2
+efficientnetv2_s,EfficientNetV2-S,over_ripe,pink_turns_purple,1
+efficientnetv2_s,EfficientNetV2-S,pale_pink,fully_ripe,1
+efficientnetv2_s,EfficientNetV2-S,pale_pink,green_immature,10
+efficientnetv2_s,EfficientNetV2-S,pale_pink,pink_turns_purple,40
+efficientnetv2_s,EfficientNetV2-S,pink_turns_purple,fully_ripe,36
+efficientnetv2_s,EfficientNetV2-S,pink_turns_purple,green_immature,1
+efficientnetv2_s,EfficientNetV2-S,pink_turns_purple,over_ripe,2
+efficientnetv2_s,EfficientNetV2-S,pink_turns_purple,pale_pink,11
+convnextv2_tiny,ConvNeXtV2-T,fully_ripe,green_immature,18
+convnextv2_tiny,ConvNeXtV2-T,fully_ripe,over_ripe,45
+convnextv2_tiny,ConvNeXtV2-T,fully_ripe,pink_turns_purple,16
+convnextv2_tiny,ConvNeXtV2-T,green_immature,fully_ripe,13
+convnextv2_tiny,ConvNeXtV2-T,green_immature,over_ripe,1
+convnextv2_tiny,ConvNeXtV2-T,green_immature,pale_pink,16
+convnextv2_tiny,ConvNeXtV2-T,green_immature,pink_turns_purple,3
+convnextv2_tiny,ConvNeXtV2-T,over_ripe,fully_ripe,90
+convnextv2_tiny,ConvNeXtV2-T,over_ripe,green_immature,3
+convnextv2_tiny,ConvNeXtV2-T,over_ripe,pink_turns_purple,3
+convnextv2_tiny,ConvNeXtV2-T,pale_pink,green_immature,12
+convnextv2_tiny,ConvNeXtV2-T,pale_pink,pink_turns_purple,33
+convnextv2_tiny,ConvNeXtV2-T,pink_turns_purple,fully_ripe,36
+convnextv2_tiny,ConvNeXtV2-T,pink_turns_purple,over_ripe,2
+convnextv2_tiny,ConvNeXtV2-T,pink_turns_purple,pale_pink,14
+mobilenetv3_large,MobileNetV3-Large,fully_ripe,green_immature,9
+mobilenetv3_large,MobileNetV3-Large,fully_ripe,over_ripe,56
+mobilenetv3_large,MobileNetV3-Large,fully_ripe,pink_turns_purple,6
+mobilenetv3_large,MobileNetV3-Large,green_immature,fully_ripe,28
+mobilenetv3_large,MobileNetV3-Large,green_immature,over_ripe,1
+mobilenetv3_large,MobileNetV3-Large,green_immature,pale_pink,10
+mobilenetv3_large,MobileNetV3-Large,over_ripe,fully_ripe,90
+mobilenetv3_large,MobileNetV3-Large,over_ripe,pale_pink,1
+mobilenetv3_large,MobileNetV3-Large,pale_pink,fully_ripe,3
+mobilenetv3_large,MobileNetV3-Large,pale_pink,green_immature,9
+mobilenetv3_large,MobileNetV3-Large,pale_pink,pink_turns_purple,10
+mobilenetv3_large,MobileNetV3-Large,pink_turns_purple,fully_ripe,50
+mobilenetv3_large,MobileNetV3-Large,pink_turns_purple,green_immature,2
+mobilenetv3_large,MobileNetV3-Large,pink_turns_purple,over_ripe,1
+mobilenetv3_large,MobileNetV3-Large,pink_turns_purple,pale_pink,23
+efficientnet_b4,EfficientNet-B4,fully_ripe,green_immature,16
+efficientnet_b4,EfficientNet-B4,fully_ripe,over_ripe,65
+efficientnet_b4,EfficientNet-B4,fully_ripe,pink_turns_purple,13
+efficientnet_b4,EfficientNet-B4,green_immature,fully_ripe,20
+efficientnet_b4,EfficientNet-B4,green_immature,over_ripe,3
+efficientnet_b4,EfficientNet-B4,green_immature,pale_pink,2
+efficientnet_b4,EfficientNet-B4,green_immature,pink_turns_purple,5
+efficientnet_b4,EfficientNet-B4,over_ripe,fully_ripe,78
+efficientnet_b4,EfficientNet-B4,over_ripe,pink_turns_purple,2
+efficientnet_b4,EfficientNet-B4,pale_pink,fully_ripe,3
+efficientnet_b4,EfficientNet-B4,pale_pink,green_immature,22
+efficientnet_b4,EfficientNet-B4,pale_pink,pink_turns_purple,34
+efficientnet_b4,EfficientNet-B4,pink_turns_purple,fully_ripe,32
+efficientnet_b4,EfficientNet-B4,pink_turns_purple,green_immature,2
+efficientnet_b4,EfficientNet-B4,pink_turns_purple,over_ripe,3
+efficientnet_b4,EfficientNet-B4,pink_turns_purple,pale_pink,9
+vit_base_patch16_224,ViT-Base/16,fully_ripe,green_immature,15
+vit_base_patch16_224,ViT-Base/16,fully_ripe,over_ripe,43
+vit_base_patch16_224,ViT-Base/16,fully_ripe,pink_turns_purple,15
+vit_base_patch16_224,ViT-Base/16,green_immature,fully_ripe,24
+vit_base_patch16_224,ViT-Base/16,green_immature,over_ripe,2
+vit_base_patch16_224,ViT-Base/16,green_immature,pale_pink,7
+vit_base_patch16_224,ViT-Base/16,green_immature,pink_turns_purple,2
+vit_base_patch16_224,ViT-Base/16,over_ripe,fully_ripe,91
+vit_base_patch16_224,ViT-Base/16,over_ripe,green_immature,2
+vit_base_patch16_224,ViT-Base/16,over_ripe,pink_turns_purple,3
+vit_base_patch16_224,ViT-Base/16,pale_pink,fully_ripe,1
+vit_base_patch16_224,ViT-Base/16,pale_pink,green_immature,17
+vit_base_patch16_224,ViT-Base/16,pale_pink,pink_turns_purple,20
+vit_base_patch16_224,ViT-Base/16,pink_turns_purple,fully_ripe,31
+vit_base_patch16_224,ViT-Base/16,pink_turns_purple,green_immature,2
+vit_base_patch16_224,ViT-Base/16,pink_turns_purple,over_ripe,2
+vit_base_patch16_224,ViT-Base/16,pink_turns_purple,pale_pink,18
+swin_tiny,Swin-T,fully_ripe,green_immature,20
+swin_tiny,Swin-T,fully_ripe,over_ripe,54
+swin_tiny,Swin-T,fully_ripe,pink_turns_purple,22
+swin_tiny,Swin-T,green_immature,fully_ripe,21
+swin_tiny,Swin-T,green_immature,over_ripe,1
+swin_tiny,Swin-T,green_immature,pale_pink,20
+swin_tiny,Swin-T,green_immature,pink_turns_purple,2
+swin_tiny,Swin-T,over_ripe,fully_ripe,82
+swin_tiny,Swin-T,over_ripe,green_immature,1
+swin_tiny,Swin-T,over_ripe,pale_pink,1
+swin_tiny,Swin-T,over_ripe,pink_turns_purple,2
+swin_tiny,Swin-T,pale_pink,green_immature,11
+swin_tiny,Swin-T,pale_pink,pink_turns_purple,19
+swin_tiny,Swin-T,pink_turns_purple,fully_ripe,24
+swin_tiny,Swin-T,pink_turns_purple,green_immature,1
+swin_tiny,Swin-T,pink_turns_purple,over_ripe,1
+swin_tiny,Swin-T,pink_turns_purple,pale_pink,20
+deit3_small,DeiT-III-S,fully_ripe,green_immature,18
+deit3_small,DeiT-III-S,fully_ripe,over_ripe,57
+deit3_small,DeiT-III-S,fully_ripe,pink_turns_purple,4
+deit3_small,DeiT-III-S,green_immature,fully_ripe,10
+deit3_small,DeiT-III-S,green_immature,over_ripe,4
+deit3_small,DeiT-III-S,green_immature,pale_pink,16
+deit3_small,DeiT-III-S,over_ripe,fully_ripe,89
+deit3_small,DeiT-III-S,over_ripe,pink_turns_purple,1
+deit3_small,DeiT-III-S,pale_pink,fully_ripe,2
+deit3_small,DeiT-III-S,pale_pink,green_immature,8
+deit3_small,DeiT-III-S,pale_pink,pink_turns_purple,36
+deit3_small,DeiT-III-S,pink_turns_purple,fully_ripe,49
+deit3_small,DeiT-III-S,pink_turns_purple,green_immature,2
+deit3_small,DeiT-III-S,pink_turns_purple,over_ripe,1
+deit3_small,DeiT-III-S,pink_turns_purple,pale_pink,8
+maxvit_tiny,MaxViT-T,fully_ripe,green_immature,12
+maxvit_tiny,MaxViT-T,fully_ripe,over_ripe,110
+maxvit_tiny,MaxViT-T,fully_ripe,pink_turns_purple,6
+maxvit_tiny,MaxViT-T,green_immature,fully_ripe,17
+maxvit_tiny,MaxViT-T,green_immature,over_ripe,3
+maxvit_tiny,MaxViT-T,green_immature,pale_pink,11
+maxvit_tiny,MaxViT-T,green_immature,pink_turns_purple,4
+maxvit_tiny,MaxViT-T,over_ripe,fully_ripe,67
+maxvit_tiny,MaxViT-T,over_ripe,green_immature,1
+maxvit_tiny,MaxViT-T,over_ripe,pink_turns_purple,2
+maxvit_tiny,MaxViT-T,pale_pink,fully_ripe,1
+maxvit_tiny,MaxViT-T,pale_pink,green_immature,14
+maxvit_tiny,MaxViT-T,pale_pink,pink_turns_purple,33
+maxvit_tiny,MaxViT-T,pink_turns_purple,fully_ripe,43
+maxvit_tiny,MaxViT-T,pink_turns_purple,green_immature,2
+maxvit_tiny,MaxViT-T,pink_turns_purple,over_ripe,2
+maxvit_tiny,MaxViT-T,pink_turns_purple,pale_pink,8
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,fully_ripe,green_immature,167
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,fully_ripe,over_ripe,27
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,fully_ripe,pale_pink,3
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,fully_ripe,pink_turns_purple,17
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,green_immature,fully_ripe,97
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,green_immature,over_ripe,8
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,green_immature,pale_pink,9
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,green_immature,pink_turns_purple,12
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,over_ripe,fully_ripe,80
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,over_ripe,green_immature,23
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,over_ripe,pale_pink,1
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,over_ripe,pink_turns_purple,2
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,pale_pink,fully_ripe,12
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,pale_pink,green_immature,43
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,pale_pink,pink_turns_purple,25
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,pink_turns_purple,fully_ripe,40
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,pink_turns_purple,green_immature,31
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,pink_turns_purple,over_ripe,6
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,pink_turns_purple,pale_pink,5
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),fully_ripe,green_immature,170
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),fully_ripe,over_ripe,129
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),fully_ripe,pale_pink,3
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),fully_ripe,pink_turns_purple,23
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),green_immature,fully_ripe,61
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),green_immature,over_ripe,85
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),green_immature,pale_pink,6
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),green_immature,pink_turns_purple,10
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),over_ripe,fully_ripe,45
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),over_ripe,green_immature,29
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),over_ripe,pale_pink,1
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),over_ripe,pink_turns_purple,6
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),pale_pink,fully_ripe,1
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),pale_pink,green_immature,40
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),pale_pink,over_ripe,3
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),pale_pink,pink_turns_purple,20
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),pink_turns_purple,fully_ripe,21
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),pink_turns_purple,green_immature,30
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),pink_turns_purple,over_ripe,10
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),pink_turns_purple,pale_pink,11
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),fully_ripe,green_immature,40
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),fully_ripe,over_ripe,70
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),fully_ripe,pink_turns_purple,10
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),green_immature,fully_ripe,47
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),green_immature,over_ripe,5
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),green_immature,pale_pink,15
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),over_ripe,fully_ripe,85
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),over_ripe,green_immature,4
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),over_ripe,pink_turns_purple,5
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),pale_pink,fully_ripe,9
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),pale_pink,green_immature,18
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),pale_pink,over_ripe,2
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),pale_pink,pink_turns_purple,24
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),pink_turns_purple,fully_ripe,34
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),pink_turns_purple,green_immature,7
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),pink_turns_purple,over_ripe,2
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),pink_turns_purple,pale_pink,17
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),fully_ripe,green_immature,65
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),fully_ripe,over_ripe,134
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),fully_ripe,pale_pink,3
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),fully_ripe,pink_turns_purple,37
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),green_immature,fully_ripe,45
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),green_immature,over_ripe,15
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),green_immature,pale_pink,21
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),green_immature,pink_turns_purple,7
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),over_ripe,fully_ripe,55
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),over_ripe,green_immature,5
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),over_ripe,pink_turns_purple,7
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),pale_pink,fully_ripe,5
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),pale_pink,green_immature,23
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),pale_pink,pink_turns_purple,20
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),pink_turns_purple,fully_ripe,13
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),pink_turns_purple,green_immature,9
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),pink_turns_purple,over_ripe,12
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),pink_turns_purple,pale_pink,13
+berrymtl_centerdet,BerryMTL-CenterDet (ours),fully_ripe,green_immature,35
+berrymtl_centerdet,BerryMTL-CenterDet (ours),fully_ripe,over_ripe,124
+berrymtl_centerdet,BerryMTL-CenterDet (ours),fully_ripe,pink_turns_purple,29
+berrymtl_centerdet,BerryMTL-CenterDet (ours),green_immature,fully_ripe,67
+berrymtl_centerdet,BerryMTL-CenterDet (ours),green_immature,over_ripe,5
+berrymtl_centerdet,BerryMTL-CenterDet (ours),green_immature,pale_pink,17
+berrymtl_centerdet,BerryMTL-CenterDet (ours),green_immature,pink_turns_purple,3
+berrymtl_centerdet,BerryMTL-CenterDet (ours),over_ripe,fully_ripe,79
+berrymtl_centerdet,BerryMTL-CenterDet (ours),over_ripe,green_immature,1
+berrymtl_centerdet,BerryMTL-CenterDet (ours),over_ripe,pale_pink,1
+berrymtl_centerdet,BerryMTL-CenterDet (ours),over_ripe,pink_turns_purple,7
+berrymtl_centerdet,BerryMTL-CenterDet (ours),pale_pink,fully_ripe,1
+berrymtl_centerdet,BerryMTL-CenterDet (ours),pale_pink,green_immature,18
+berrymtl_centerdet,BerryMTL-CenterDet (ours),pale_pink,over_ripe,1
+berrymtl_centerdet,BerryMTL-CenterDet (ours),pale_pink,pink_turns_purple,21
+berrymtl_centerdet,BerryMTL-CenterDet (ours),pink_turns_purple,fully_ripe,27
+berrymtl_centerdet,BerryMTL-CenterDet (ours),pink_turns_purple,green_immature,5
+berrymtl_centerdet,BerryMTL-CenterDet (ours),pink_turns_purple,over_ripe,6
+berrymtl_centerdet,BerryMTL-CenterDet (ours),pink_turns_purple,pale_pink,14
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),fully_ripe,green_immature,37
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),fully_ripe,over_ripe,151
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),fully_ripe,pale_pink,1
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),fully_ripe,pink_turns_purple,17
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),green_immature,fully_ripe,47
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),green_immature,over_ripe,9
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),green_immature,pale_pink,16
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),green_immature,pink_turns_purple,6
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),over_ripe,fully_ripe,63
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),over_ripe,green_immature,2
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),over_ripe,pale_pink,1
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),over_ripe,pink_turns_purple,8
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),pale_pink,fully_ripe,1
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),pale_pink,green_immature,16
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),pale_pink,over_ripe,1
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),pale_pink,pink_turns_purple,25
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),pink_turns_purple,fully_ripe,25
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),pink_turns_purple,green_immature,3
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),pink_turns_purple,over_ripe,10
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),pink_turns_purple,pale_pink,15
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),fully_ripe,green_immature,39
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),fully_ripe,over_ripe,153
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),fully_ripe,pale_pink,1
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),fully_ripe,pink_turns_purple,14
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),green_immature,fully_ripe,45
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),green_immature,over_ripe,19
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),green_immature,pale_pink,13
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),green_immature,pink_turns_purple,2
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),over_ripe,fully_ripe,63
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),over_ripe,green_immature,1
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),over_ripe,pale_pink,2
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),over_ripe,pink_turns_purple,5
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),pale_pink,fully_ripe,2
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),pale_pink,green_immature,21
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),pale_pink,over_ripe,2
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),pale_pink,pink_turns_purple,20
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),pink_turns_purple,fully_ripe,25
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),pink_turns_purple,green_immature,3
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),pink_turns_purple,over_ripe,11
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),pink_turns_purple,pale_pink,16
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),fully_ripe,green_immature,35
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),fully_ripe,over_ripe,91
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),fully_ripe,pink_turns_purple,15
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),green_immature,fully_ripe,59
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),green_immature,over_ripe,5
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),green_immature,pale_pink,17
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),green_immature,pink_turns_purple,3
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),over_ripe,fully_ripe,96
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),over_ripe,green_immature,1
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),over_ripe,pale_pink,2
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),over_ripe,pink_turns_purple,4
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),pale_pink,green_immature,18
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),pale_pink,over_ripe,1
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),pale_pink,pink_turns_purple,27
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),pink_turns_purple,fully_ripe,34
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),pink_turns_purple,green_immature,5
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),pink_turns_purple,over_ripe,3
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),pink_turns_purple,pale_pink,15
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),fully_ripe,green_immature,44
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),fully_ripe,over_ripe,134
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),fully_ripe,pale_pink,3
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),fully_ripe,pink_turns_purple,15
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),green_immature,fully_ripe,55
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),green_immature,over_ripe,7
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),green_immature,pale_pink,18
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),green_immature,pink_turns_purple,1
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),over_ripe,fully_ripe,77
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),over_ripe,green_immature,2
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),over_ripe,pale_pink,1
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),over_ripe,pink_turns_purple,5
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),pale_pink,fully_ripe,1
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),pale_pink,green_immature,17
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),pale_pink,over_ripe,1
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),pale_pink,pink_turns_purple,33
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),pink_turns_purple,fully_ripe,33
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),pink_turns_purple,green_immature,3
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),pink_turns_purple,over_ripe,4
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),pink_turns_purple,pale_pink,15
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),fully_ripe,green_immature,38
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),fully_ripe,over_ripe,92
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),fully_ripe,pink_turns_purple,15
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),green_immature,fully_ripe,61
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),green_immature,over_ripe,5
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),green_immature,pale_pink,13
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),green_immature,pink_turns_purple,4
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),over_ripe,fully_ripe,90
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),over_ripe,green_immature,1
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),over_ripe,pale_pink,1
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),over_ripe,pink_turns_purple,5
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),pale_pink,green_immature,20
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),pale_pink,over_ripe,1
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),pale_pink,pink_turns_purple,29
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),pink_turns_purple,fully_ripe,39
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),pink_turns_purple,green_immature,5
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),pink_turns_purple,over_ripe,3
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),pink_turns_purple,pale_pink,13
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),fully_ripe,green_immature,36
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),fully_ripe,over_ripe,96
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),fully_ripe,pale_pink,1
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),fully_ripe,pink_turns_purple,16
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),green_immature,fully_ripe,67
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),green_immature,over_ripe,8
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),green_immature,pale_pink,13
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),green_immature,pink_turns_purple,3
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),over_ripe,fully_ripe,78
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),over_ripe,green_immature,1
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),over_ripe,pale_pink,1
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),over_ripe,pink_turns_purple,5
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),pale_pink,fully_ripe,1
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),pale_pink,green_immature,18
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),pale_pink,over_ripe,1
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),pale_pink,pink_turns_purple,32
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),pink_turns_purple,fully_ripe,40
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),pink_turns_purple,green_immature,4
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),pink_turns_purple,over_ripe,2
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),pink_turns_purple,pale_pink,18
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),fully_ripe,green_immature,38
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),fully_ripe,over_ripe,98
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),fully_ripe,pink_turns_purple,16
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),green_immature,fully_ripe,70
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),green_immature,over_ripe,14
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),green_immature,pale_pink,12
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),green_immature,pink_turns_purple,6
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),over_ripe,fully_ripe,83
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),over_ripe,green_immature,2
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),over_ripe,pale_pink,1
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),over_ripe,pink_turns_purple,5
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),pale_pink,fully_ripe,1
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),pale_pink,green_immature,19
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),pale_pink,over_ripe,1
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),pale_pink,pink_turns_purple,27
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),pink_turns_purple,fully_ripe,41
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),pink_turns_purple,green_immature,4
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),pink_turns_purple,over_ripe,2
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),pink_turns_purple,pale_pink,18
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),fully_ripe,green_immature,42
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),fully_ripe,over_ripe,90
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),fully_ripe,pink_turns_purple,15
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),green_immature,fully_ripe,77
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),green_immature,over_ripe,11
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),green_immature,pale_pink,12
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),green_immature,pink_turns_purple,5
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),over_ripe,fully_ripe,86
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),over_ripe,green_immature,2
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),over_ripe,pale_pink,1
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),over_ripe,pink_turns_purple,4
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),pale_pink,fully_ripe,1
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),pale_pink,green_immature,25
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),pale_pink,over_ripe,1
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),pale_pink,pink_turns_purple,22
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),pink_turns_purple,fully_ripe,43
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),pink_turns_purple,green_immature,10
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),pink_turns_purple,over_ripe,6
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),pink_turns_purple,pale_pink,12
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),fully_ripe,green_immature,20
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),fully_ripe,over_ripe,67
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),fully_ripe,pale_pink,1
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),fully_ripe,pink_turns_purple,17
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),green_immature,fully_ripe,42
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),green_immature,over_ripe,6
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),green_immature,pale_pink,19
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),green_immature,pink_turns_purple,2
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),over_ripe,fully_ripe,90
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),over_ripe,green_immature,3
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),over_ripe,pale_pink,1
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),over_ripe,pink_turns_purple,3
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),pale_pink,fully_ripe,3
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),pale_pink,green_immature,14
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),pale_pink,over_ripe,1
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),pale_pink,pink_turns_purple,15
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),pink_turns_purple,fully_ripe,24
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),pink_turns_purple,green_immature,3
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),pink_turns_purple,over_ripe,1
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),pink_turns_purple,pale_pink,27
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),fully_ripe,green_immature,22
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),fully_ripe,over_ripe,61
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),fully_ripe,pale_pink,1
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),fully_ripe,pink_turns_purple,17
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),green_immature,fully_ripe,52
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),green_immature,over_ripe,4
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),green_immature,pale_pink,31
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),green_immature,pink_turns_purple,4
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),over_ripe,fully_ripe,99
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),over_ripe,green_immature,3
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),over_ripe,pink_turns_purple,4
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),pale_pink,fully_ripe,3
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),pale_pink,green_immature,11
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),pale_pink,over_ripe,1
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),pale_pink,pink_turns_purple,22
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),pink_turns_purple,fully_ripe,21
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),pink_turns_purple,green_immature,2
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),pink_turns_purple,over_ripe,1
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),pink_turns_purple,pale_pink,20
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),fully_ripe,green_immature,28
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),fully_ripe,over_ripe,76
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),fully_ripe,pink_turns_purple,16
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),green_immature,fully_ripe,45
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),green_immature,over_ripe,7
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),green_immature,pale_pink,11
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),green_immature,pink_turns_purple,3
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),over_ripe,fully_ripe,88
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),over_ripe,green_immature,3
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),over_ripe,pink_turns_purple,4
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),pale_pink,fully_ripe,3
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),pale_pink,green_immature,19
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),pale_pink,over_ripe,2
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),pale_pink,pink_turns_purple,20
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),pink_turns_purple,fully_ripe,28
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),pink_turns_purple,green_immature,3
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),pink_turns_purple,over_ripe,3
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),pink_turns_purple,pale_pink,18
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),fully_ripe,green_immature,24
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),fully_ripe,over_ripe,74
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),fully_ripe,pale_pink,1
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),fully_ripe,pink_turns_purple,21
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),green_immature,fully_ripe,43
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),green_immature,over_ripe,5
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),green_immature,pale_pink,15
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),green_immature,pink_turns_purple,5
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),over_ripe,fully_ripe,94
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),over_ripe,green_immature,3
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),over_ripe,pink_turns_purple,4
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),pale_pink,fully_ripe,3
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),pale_pink,green_immature,15
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),pale_pink,over_ripe,1
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),pale_pink,pink_turns_purple,20
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),pink_turns_purple,fully_ripe,22
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),pink_turns_purple,green_immature,4
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),pink_turns_purple,over_ripe,1
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),pink_turns_purple,pale_pink,20
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),fully_ripe,green_immature,24
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),fully_ripe,over_ripe,67
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),fully_ripe,pink_turns_purple,14
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),green_immature,fully_ripe,47
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),green_immature,over_ripe,6
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),green_immature,pale_pink,11
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),green_immature,pink_turns_purple,4
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),over_ripe,fully_ripe,95
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),over_ripe,green_immature,2
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),over_ripe,pink_turns_purple,4
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),pale_pink,fully_ripe,3
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),pale_pink,green_immature,17
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),pale_pink,over_ripe,1
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),pale_pink,pink_turns_purple,21
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),pink_turns_purple,fully_ripe,26
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),pink_turns_purple,green_immature,4
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),pink_turns_purple,over_ripe,2
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),pink_turns_purple,pale_pink,17

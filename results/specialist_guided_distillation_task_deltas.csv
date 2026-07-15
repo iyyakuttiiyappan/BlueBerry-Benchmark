@@ -1,0 +1,25 @@
+method,display_name,task,metric,score,specialist_score,delta_vs_specialist_percent
+integrated_specialists,Integrated best specialists,detection,mAP50,0.4160884131986638,0.4160884131986638,0.0
+integrated_specialists,Integrated best specialists,segmentation,foreground mIoU,0.4872713121091362,0.4872713121091362,0.0
+integrated_specialists,Integrated best specialists,counting,MAE,13.85836038961039,13.85836038961039,0.0
+integrated_specialists,Integrated best specialists,classification,macro F1,0.7254474104155516,0.7254474104155516,0.0
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet,detection,mAP50,0.3364136857603444,0.4160884131986638,-19.1485090454269
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet,segmentation,foreground mIoU,0.4607562024745832,0.4872713121091362,-5.441549497298192
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet,counting,MAE,9.18453226461039,13.85836038961039,33.72569332591443
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet,classification,macro F1,0.6779516172442601,0.7254474104155516,-6.547103551460042
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet,detection,mAP50,0.3687990985192913,0.4160884131986638,-11.365208253658801
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet,segmentation,foreground mIoU,0.4690939590939386,0.4872713121091362,-3.7304377588981414
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet,counting,MAE,9.93559760551948,13.85836038961039,28.306110346443326
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet,classification,macro F1,0.664697721977655,0.7254474104155516,-8.374099564722124
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill,detection,mAP50,0.3538769583765075,0.4160884131986638,-14.951498972035319
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill,segmentation,foreground mIoU,0.4615089105999153,0.4872713121091362,-5.287075366228582
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill,counting,MAE,9.272372159090908,13.85836038961039,33.09185287140891
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill,classification,macro F1,0.6725954500223918,0.7254474104155516,-7.285429603075574
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion,detection,mAP50,0.3718364139927505,0.4160884131986638,-10.635239483293397
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion,segmentation,foreground mIoU,0.4726097569529354,0.4872713121091362,-3.008909983380473
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion,counting,MAE,9.475370332792208,13.85836038961039,31.627046299821362
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion,classification,macro F1,0.6706774957063263,0.7254474104155516,-7.549811870973797
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW,detection,mAP50,0.37139324826618,0.4160884131986638,-10.74174706978535
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW,segmentation,foreground mIoU,0.4731159555705515,0.4872713121091362,-2.9050256370139538
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW,counting,MAE,9.46114042207792,13.85836038961039,31.729727355258163
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW,classification,macro F1,0.6750937877065353,0.7254474104155516,-6.941043828411036

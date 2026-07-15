@@ -1,0 +1,19 @@
+{
+  "comparison_csv": "outputs\\fresh_benchmark_514\\paper_ready\\tables\\specialist_guided_distillation_comparison.csv",
+  "task_deltas_csv": "outputs\\fresh_benchmark_514\\paper_ready\\tables\\specialist_guided_distillation_task_deltas.csv",
+  "delta_plot": "outputs\\fresh_benchmark_514\\paper_ready\\figures\\specialist_guided_distillation_delta.png",
+  "best_single_unified_by_delta_m": {
+    "method": "berrymtl_specialist_adapter_fusion_uncertainty",
+    "display_name": "BerryMTL-SpecialistAdapterFusion-UW",
+    "model_type": "single unified model",
+    "detection_mAP50": 0.37139324826618,
+    "segmentation_fg_mIoU": 0.4731159555705515,
+    "counting_MAE": 9.46114042207792,
+    "classification_macro_F1": 0.6750937877065353,
+    "delta_detection_percent": -10.74174706978535,
+    "delta_segmentation_percent": -2.9050256370139538,
+    "delta_counting_percent": 31.729727355258163,
+    "delta_classification_percent": -6.941043828411036,
+    "delta_m_percent": 2.7854777050119557
+  }
+}

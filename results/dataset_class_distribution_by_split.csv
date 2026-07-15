@@ -1,0 +1,16 @@
+split,class_name,workbook_count,component_count,pixel_count
+test,green_immature,3081,2463,28576004
+test,pale_pink,111,106,2388744
+test,pink_turns_purple,132,128,2812704
+test,fully_ripe,1044,918,14532198
+test,over_ripe,157,133,2056341
+train,green_immature,14358,11034,144081525
+train,pale_pink,514,506,10311731
+train,pink_turns_purple,620,604,11749146
+train,fully_ripe,4898,4359,69789460
+train,over_ripe,737,599,11336874
+val,green_immature,3086,2262,28589231
+val,pale_pink,111,107,2404429
+val,pink_turns_purple,131,129,2649598
+val,fully_ripe,1060,869,13609158
+val,over_ripe,155,119,2604560

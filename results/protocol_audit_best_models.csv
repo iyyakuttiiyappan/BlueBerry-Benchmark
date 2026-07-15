@@ -1,0 +1,9 @@
+task,role,method,display_name,metric,score,higher_is_better,image_size,model_or_backbone,configured_epochs,best_epoch,train_seconds,tta
+detection,specialist,fasterrcnn_resnet50_fpn_thr005,Faster R-CNN ResNet-50 FPN (thr=0.05),map50,0.4160884131986638,True,,torchvision:fasterrcnn_resnet50_fpn,50,18,565.6952820000006,False
+detection,unified,berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),map50,0.3718364139927505,True,768.0,,50,2,1301.488364199991,False
+segmentation,specialist,fpn_convnextv2_tiny_tta,FPN ConvNeXtV2-T + Flip TTA,miou_foreground,0.4872713121091362,True,,timm_fpn:convnextv2_tiny.fcmae_ft_in22k_in1k,60,16,890.2259245000023,True
+segmentation,unified,berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),miou_foreground,0.4731159555705515,True,768.0,,60,4,1375.1890083999897,False
+counting,specialist,count_efficientnetv2_s,EfficientNetV2-S Regression,mae,13.85836038961039,False,,tf_efficientnetv2_s.in21k_ft_in1k,40,7,551.9586642000359,False
+counting,unified,berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),mae,9.18453226461039,False,768.0,timm_fpn_centernet:convnextv2_tiny.fcmae_ft_in22k_in1k,28,27,1175.251629700011,False
+classification,specialist,resnet50,ResNet-50,macro_f1,0.7254474104155516,True,,resnet50.a1_in1k,40,4,250.18318349999936,False
+classification,unified,berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),macro_f1,0.6779516172442601,True,768.0,timm_fpn_centernet:convnextv2_tiny.fcmae_ft_in22k_in1k,28,27,1175.251629700011,False

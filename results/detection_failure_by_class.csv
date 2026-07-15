@@ -1,0 +1,141 @@
+method,display_name,class_id,class_name,tp,fp,fn,gt,pred,fn_rate,fp_per_gt
+fasterrcnn_resnet50_fpn,Faster R-CNN ResNet-50 FPN,1,green_immature,1318,634,1145,2463,1952,0.464880227365002,0.2574096630125863
+fasterrcnn_resnet50_fpn,Faster R-CNN ResNet-50 FPN,2,pale_pink,61,60,45,106,121,0.42452830188679247,0.5660377358490566
+fasterrcnn_resnet50_fpn,Faster R-CNN ResNet-50 FPN,3,pink_turns_purple,75,89,53,128,164,0.4140625,0.6953125
+fasterrcnn_resnet50_fpn,Faster R-CNN ResNet-50 FPN,4,fully_ripe,547,366,371,918,913,0.40413943355119825,0.39869281045751637
+fasterrcnn_resnet50_fpn,Faster R-CNN ResNet-50 FPN,5,over_ripe,32,85,101,133,117,0.7593984962406015,0.6390977443609023
+fasterrcnn_resnet50_fpn_thr005,Faster R-CNN ResNet-50 FPN (thr=0.05),1,green_immature,1376,1459,1087,2463,2835,0.44133170929760457,0.5923670320747056
+fasterrcnn_resnet50_fpn_thr005,Faster R-CNN ResNet-50 FPN (thr=0.05),2,pale_pink,69,233,37,106,302,0.3490566037735849,2.19811320754717
+fasterrcnn_resnet50_fpn_thr005,Faster R-CNN ResNet-50 FPN (thr=0.05),3,pink_turns_purple,80,213,48,128,293,0.375,1.6640625
+fasterrcnn_resnet50_fpn_thr005,Faster R-CNN ResNet-50 FPN (thr=0.05),4,fully_ripe,603,1068,315,918,1671,0.3431372549019608,1.1633986928104576
+fasterrcnn_resnet50_fpn_thr005,Faster R-CNN ResNet-50 FPN (thr=0.05),5,over_ripe,38,168,95,133,206,0.7142857142857143,1.263157894736842
+fasterrcnn_resnet50_fpn_v2,Faster R-CNN ResNet-50 FPN v2,1,green_immature,1092,1227,1371,2463,2319,0.5566382460414129,0.4981729598051157
+fasterrcnn_resnet50_fpn_v2,Faster R-CNN ResNet-50 FPN v2,2,pale_pink,54,61,52,106,115,0.49056603773584906,0.5754716981132075
+fasterrcnn_resnet50_fpn_v2,Faster R-CNN ResNet-50 FPN v2,3,pink_turns_purple,70,75,58,128,145,0.453125,0.5859375
+fasterrcnn_resnet50_fpn_v2,Faster R-CNN ResNet-50 FPN v2,4,fully_ripe,503,390,415,918,893,0.45206971677559915,0.42483660130718953
+fasterrcnn_resnet50_fpn_v2,Faster R-CNN ResNet-50 FPN v2,5,over_ripe,0,0,133,133,0,1.0,0.0
+fasterrcnn_mobilenet_v3_large_fpn,Faster R-CNN MobileNetV3 FPN,1,green_immature,706,1598,1757,2463,2304,0.7133576938692652,0.6488022736500203
+fasterrcnn_mobilenet_v3_large_fpn,Faster R-CNN MobileNetV3 FPN,2,pale_pink,44,56,62,106,100,0.5849056603773585,0.5283018867924528
+fasterrcnn_mobilenet_v3_large_fpn,Faster R-CNN MobileNetV3 FPN,3,pink_turns_purple,41,69,87,128,110,0.6796875,0.5390625
+fasterrcnn_mobilenet_v3_large_fpn,Faster R-CNN MobileNetV3 FPN,4,fully_ripe,389,803,529,918,1192,0.5762527233115469,0.8747276688453159
+fasterrcnn_mobilenet_v3_large_fpn,Faster R-CNN MobileNetV3 FPN,5,over_ripe,9,61,124,133,70,0.9323308270676691,0.45864661654135336
+fasterrcnn_mobilenet_v3_large_320_fpn,Faster R-CNN MobileNetV3 320 FPN,1,green_immature,108,1355,2355,2463,1463,0.9561510353227771,0.5501421031262688
+fasterrcnn_mobilenet_v3_large_320_fpn,Faster R-CNN MobileNetV3 320 FPN,2,pale_pink,14,42,92,106,56,0.8679245283018868,0.39622641509433965
+fasterrcnn_mobilenet_v3_large_320_fpn,Faster R-CNN MobileNetV3 320 FPN,3,pink_turns_purple,18,71,110,128,89,0.859375,0.5546875
+fasterrcnn_mobilenet_v3_large_320_fpn,Faster R-CNN MobileNetV3 320 FPN,4,fully_ripe,119,680,799,918,799,0.8703703703703703,0.7407407407407407
+fasterrcnn_mobilenet_v3_large_320_fpn,Faster R-CNN MobileNetV3 320 FPN,5,over_ripe,0,11,133,133,11,1.0,0.08270676691729323
+retinanet_resnet50_fpn,RetinaNet ResNet-50 FPN,1,green_immature,1327,2865,1136,2463,4192,0.46122614697523345,1.1632155907429964
+retinanet_resnet50_fpn,RetinaNet ResNet-50 FPN,2,pale_pink,55,119,51,106,174,0.4811320754716981,1.1226415094339623
+retinanet_resnet50_fpn,RetinaNet ResNet-50 FPN,3,pink_turns_purple,59,88,69,128,147,0.5390625,0.6875
+retinanet_resnet50_fpn,RetinaNet ResNet-50 FPN,4,fully_ripe,537,1055,381,918,1592,0.4150326797385621,1.1492374727668846
+retinanet_resnet50_fpn,RetinaNet ResNet-50 FPN,5,over_ripe,24,195,109,133,219,0.8195488721804511,1.4661654135338347
+retinanet_resnet50_fpn_v2,RetinaNet ResNet-50 FPN v2,1,green_immature,1060,2280,1403,2463,3340,0.5696305318717012,0.925700365408039
+retinanet_resnet50_fpn_v2,RetinaNet ResNet-50 FPN v2,2,pale_pink,52,120,54,106,172,0.5094339622641509,1.1320754716981132
+retinanet_resnet50_fpn_v2,RetinaNet ResNet-50 FPN v2,3,pink_turns_purple,57,98,71,128,155,0.5546875,0.765625
+retinanet_resnet50_fpn_v2,RetinaNet ResNet-50 FPN v2,4,fully_ripe,498,869,420,918,1367,0.45751633986928103,0.9466230936819172
+retinanet_resnet50_fpn_v2,RetinaNet ResNet-50 FPN v2,5,over_ripe,35,247,98,133,282,0.7368421052631579,1.8571428571428572
+fcos_resnet50_fpn,FCOS ResNet-50 FPN,1,green_immature,0,40,2463,2463,40,1.0,0.016240357287860333
+fcos_resnet50_fpn,FCOS ResNet-50 FPN,2,pale_pink,0,0,106,106,0,1.0,0.0
+fcos_resnet50_fpn,FCOS ResNet-50 FPN,3,pink_turns_purple,0,0,128,128,0,1.0,0.0
+fcos_resnet50_fpn,FCOS ResNet-50 FPN,4,fully_ripe,0,0,918,918,0,1.0,0.0
+fcos_resnet50_fpn,FCOS ResNet-50 FPN,5,over_ripe,0,0,133,133,0,1.0,0.0
+ssd300_vgg16,SSD300 VGG16,1,green_immature,456,431,2007,2463,887,0.8148599269183922,0.1749898497766951
+ssd300_vgg16,SSD300 VGG16,2,pale_pink,30,19,76,106,49,0.7169811320754716,0.1792452830188679
+ssd300_vgg16,SSD300 VGG16,3,pink_turns_purple,39,41,89,128,80,0.6953125,0.3203125
+ssd300_vgg16,SSD300 VGG16,4,fully_ripe,297,197,621,918,494,0.6764705882352942,0.21459694989106753
+ssd300_vgg16,SSD300 VGG16,5,over_ripe,4,14,129,133,18,0.9699248120300752,0.10526315789473684
+ssdlite320_mobilenet_v3_large,SSDLite MobileNetV3,1,green_immature,63,1599,2400,2463,1662,0.97442143727162,0.6492082825822169
+ssdlite320_mobilenet_v3_large,SSDLite MobileNetV3,2,pale_pink,6,13,100,106,19,0.9433962264150944,0.12264150943396226
+ssdlite320_mobilenet_v3_large,SSDLite MobileNetV3,3,pink_turns_purple,2,24,126,128,26,0.984375,0.1875
+ssdlite320_mobilenet_v3_large,SSDLite MobileNetV3,4,fully_ripe,77,465,841,918,542,0.9161220043572985,0.5065359477124183
+ssdlite320_mobilenet_v3_large,SSDLite MobileNetV3,5,over_ripe,0,45,133,133,45,1.0,0.3383458646616541
+maskrcnn_resnet50_fpn,Mask R-CNN ResNet-50 FPN,1,green_immature,1392,1032,1071,2463,2424,0.4348355663824604,0.4190012180267966
+maskrcnn_resnet50_fpn,Mask R-CNN ResNet-50 FPN,2,pale_pink,58,58,48,106,116,0.4528301886792453,0.5471698113207547
+maskrcnn_resnet50_fpn,Mask R-CNN ResNet-50 FPN,3,pink_turns_purple,69,80,59,128,149,0.4609375,0.625
+maskrcnn_resnet50_fpn,Mask R-CNN ResNet-50 FPN,4,fully_ripe,558,433,360,918,991,0.39215686274509803,0.47167755991285404
+maskrcnn_resnet50_fpn,Mask R-CNN ResNet-50 FPN,5,over_ripe,32,73,101,133,105,0.7593984962406015,0.5488721804511278
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),1,green_immature,452,936,2011,2463,1388,0.8164839626471783,0.3800243605359318
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),2,pale_pink,37,50,69,106,87,0.6509433962264151,0.4716981132075472
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),3,pink_turns_purple,39,68,89,128,107,0.6953125,0.53125
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),4,fully_ripe,221,288,697,918,509,0.7592592592592593,0.3137254901960784
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),5,over_ripe,16,95,117,133,111,0.8796992481203008,0.7142857142857143
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),1,green_immature,607,936,1856,2463,1543,0.7535525781567195,0.3800243605359318
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),2,pale_pink,42,65,64,106,107,0.6037735849056604,0.6132075471698113
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),3,pink_turns_purple,50,87,78,128,137,0.609375,0.6796875
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),4,fully_ripe,326,421,592,918,747,0.644880174291939,0.45860566448801743
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),5,over_ripe,19,100,114,133,119,0.8571428571428571,0.7518796992481203
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),1,green_immature,452,955,2011,2463,1407,0.8164839626471783,0.38773853024766547
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),2,pale_pink,37,60,69,106,97,0.6509433962264151,0.5660377358490566
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),3,pink_turns_purple,40,70,88,128,110,0.6875,0.546875
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),4,fully_ripe,238,320,680,918,558,0.7407407407407407,0.3485838779956427
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),5,over_ripe,18,108,115,133,126,0.8646616541353384,0.8120300751879699
+berrymtl_centerdet,BerryMTL-CenterDet (ours),1,green_immature,1068,13156,1395,2463,14224,0.5663824604141291,5.341453511977264
+berrymtl_centerdet,BerryMTL-CenterDet (ours),2,pale_pink,47,799,59,106,846,0.5566037735849056,7.537735849056604
+berrymtl_centerdet,BerryMTL-CenterDet (ours),3,pink_turns_purple,67,789,61,128,856,0.4765625,6.1640625
+berrymtl_centerdet,BerryMTL-CenterDet (ours),4,fully_ripe,406,6132,512,918,6538,0.5577342047930284,6.6797385620915035
+berrymtl_centerdet,BerryMTL-CenterDet (ours),5,over_ripe,21,542,112,133,563,0.8421052631578947,4.075187969924812
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),1,green_immature,1143,12484,1320,2463,13627,0.535931790499391,5.0686155095412095
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),2,pale_pink,48,661,58,106,709,0.5471698113207547,6.235849056603773
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),3,pink_turns_purple,58,679,70,128,737,0.546875,5.3046875
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),4,fully_ripe,431,3670,487,918,4101,0.5305010893246187,3.997821350762527
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),5,over_ripe,38,757,95,133,795,0.7142857142857143,5.69172932330827
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),1,green_immature,1136,14224,1327,2463,15360,0.5387738530247665,5.775071051563135
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),2,pale_pink,45,282,61,106,327,0.5754716981132075,2.660377358490566
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),3,pink_turns_purple,53,311,75,128,364,0.5859375,2.4296875
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),4,fully_ripe,380,3007,538,918,3387,0.5860566448801743,3.275599128540305
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),5,over_ripe,33,449,100,133,482,0.7518796992481203,3.3759398496240602
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),1,green_immature,1193,10122,1270,2463,11315,0.5156313438895656,4.109622411693057
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),2,pale_pink,45,312,61,106,357,0.5754716981132075,2.943396226415094
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),3,pink_turns_purple,52,208,76,128,260,0.59375,1.625
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),4,fully_ripe,428,1974,490,918,2402,0.5337690631808278,2.150326797385621
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),5,over_ripe,20,298,113,133,318,0.849624060150376,2.2406015037593985
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),1,green_immature,1262,8755,1201,2463,10017,0.4876167275680065,3.5546082013804305
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),2,pale_pink,39,235,67,106,274,0.6320754716981132,2.2169811320754715
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),3,pink_turns_purple,55,214,73,128,269,0.5703125,1.671875
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),4,fully_ripe,388,1805,530,918,2193,0.5773420479302832,1.9662309368191722
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),5,over_ripe,33,298,100,133,331,0.7518796992481203,2.2406015037593985
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),1,green_immature,1229,7139,1234,2463,8368,0.5010150223304912,2.898497766950873
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),2,pale_pink,39,191,67,106,230,0.6320754716981132,1.8018867924528301
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),3,pink_turns_purple,53,156,75,128,209,0.5859375,1.21875
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),4,fully_ripe,448,1517,470,918,1965,0.5119825708061002,1.6525054466230937
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),5,over_ripe,22,224,111,133,246,0.8345864661654135,1.6842105263157894
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),1,green_immature,1250,5679,1213,2463,6929,0.4924888347543646,2.305724725943971
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),2,pale_pink,35,199,71,106,234,0.6698113207547169,1.8773584905660377
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),3,pink_turns_purple,51,166,77,128,217,0.6015625,1.296875
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),4,fully_ripe,434,1458,484,918,1892,0.5272331154684096,1.588235294117647
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),5,over_ripe,33,202,100,133,235,0.7518796992481203,1.518796992481203
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),1,green_immature,1193,2102,1270,2463,3295,0.5156313438895656,0.8534307754770605
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),2,pale_pink,41,65,65,106,106,0.6132075471698113,0.6132075471698113
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),3,pink_turns_purple,50,63,78,128,113,0.609375,0.4921875
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),4,fully_ripe,450,674,468,918,1124,0.5098039215686274,0.7342047930283224
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),5,over_ripe,27,135,106,133,162,0.7969924812030075,1.0150375939849625
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),1,green_immature,1168,18085,1295,2463,19253,0.5257815671944783,7.342671538773853
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),2,pale_pink,39,1497,67,106,1536,0.6320754716981132,14.122641509433961
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),3,pink_turns_purple,45,295,83,128,340,0.6484375,2.3046875
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),4,fully_ripe,395,4496,523,918,4891,0.5697167755991286,4.89760348583878
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),5,over_ripe,23,758,110,133,781,0.8270676691729323,5.6992481203007515
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),1,green_immature,1381,2103,1082,2463,3484,0.439301664636622,0.853836784409257
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),2,pale_pink,55,86,51,106,141,0.4811320754716981,0.8113207547169812
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),3,pink_turns_purple,59,76,69,128,135,0.5390625,0.59375
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),4,fully_ripe,479,809,439,918,1288,0.4782135076252723,0.8812636165577342
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),5,over_ripe,23,75,110,133,98,0.8270676691729323,0.5639097744360902
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),1,green_immature,1364,1926,1099,2463,3290,0.4462038164839626,0.781973203410475
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),2,pale_pink,53,87,53,106,140,0.5,0.8207547169811321
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),3,pink_turns_purple,73,97,55,128,170,0.4296875,0.7578125
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),4,fully_ripe,513,758,405,918,1271,0.4411764705882353,0.8257080610021786
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),5,over_ripe,21,79,112,133,100,0.8421052631578947,0.5939849624060151
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),1,green_immature,1466,1762,997,2463,3228,0.4047909053999188,0.7153877385302476
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),2,pale_pink,49,63,57,106,112,0.5377358490566038,0.5943396226415094
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),3,pink_turns_purple,59,89,69,128,148,0.5390625,0.6953125
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),4,fully_ripe,531,760,387,918,1291,0.4215686274509804,0.8278867102396514
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),5,over_ripe,27,102,106,133,129,0.7969924812030075,0.7669172932330827
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),1,green_immature,1434,1921,1029,2463,3355,0.4177831912302071,0.7799431587494925
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),2,pale_pink,53,73,53,106,126,0.5,0.6886792452830188
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),3,pink_turns_purple,68,98,60,128,166,0.46875,0.765625
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),4,fully_ripe,522,803,396,918,1325,0.43137254901960786,0.8747276688453159
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),5,over_ripe,23,84,110,133,107,0.8270676691729323,0.631578947368421
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),1,green_immature,1444,1951,1019,2463,3395,0.41372310190824196,0.7921234267153877
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),2,pale_pink,53,64,53,106,117,0.5,0.6037735849056604
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),3,pink_turns_purple,62,90,66,128,152,0.515625,0.703125
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),4,fully_ripe,533,781,385,918,1314,0.41938997821350765,0.8507625272331155
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),5,over_ripe,23,81,110,133,104,0.8270676691729323,0.6090225563909775

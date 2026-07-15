@@ -1,0 +1,12 @@
+role,method,display_name,delta_m_percent,detection_map50,detection_reference_method,segmentation_miou_foreground,segmentation_reference_method,counting_mae,counting_reference_method,classification_macro_f1,classification_reference_method,detection_delta_percent,segmentation_delta_percent,counting_delta_percent,classification_delta_percent,detection_localization_map50,detection_localization_recall50,detection_matched_box_class_accuracy,detection_matched_box_class_macro_f1
+specialist_reference,best_specialists_by_task,Best specialist per task,0.0,0.4161,fasterrcnn_resnet50_fpn_thr005,0.4873,fpn_convnextv2_tiny_tta,13.8584,count_efficientnetv2_s,0.7254,resnet50,,,,,,,,
+unified_variant,berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),-8.8134,0.2577,,0.4293,,10.6461,,0.6639,,-38.0634,-11.8907,23.1792,-8.4788,0.3576,0.4811,0.9135,0.7384
+unified_variant,berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),-11.868,0.2386,,0.4229,,11.4676,,0.6613,,-42.6677,-13.2159,17.2511,-8.8396,0.3199,0.5067,0.9042,0.7286
+unified_variant,berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),-7.074,0.2628,,0.4377,,9.6182,,0.6393,,-36.8435,-10.1703,30.5964,-11.8784,0.383,0.5072,0.9143,0.7049
+unified_variant,berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),-8.5976,0.2671,,0.433,,10.4825,,0.6399,,-35.8129,-11.1457,24.3594,-11.7912,0.4196,0.5283,0.9106,0.6973
+unified_variant,berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),-54.8825,0.2642,,0.4386,,36.1426,,0.6368,,-36.5117,-9.9978,-160.8001,-12.2204,0.4005,0.5197,0.9122,0.7116
+unified_variant,berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),-7.2189,0.271,,0.4417,,10.0903,,0.6395,,-34.8684,-9.3463,27.1898,-11.8505,0.4097,0.5269,0.9068,0.6888
+unified_variant,berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),-7.8211,0.2647,,0.4387,,10.0618,,0.6361,,-36.3836,-9.9767,27.3955,-12.3196,0.4133,0.5157,0.911,0.7031
+unified_variant,berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),-10.3063,0.2458,,0.4422,,10.8362,,0.6321,,-40.9173,-9.2427,21.8072,-12.8723,0.3587,0.4899,0.909,0.6911
+unified_variant,berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),0.6471,0.3364,,0.4608,,9.1845,,0.678,,-19.1485,-5.4415,33.7257,-6.5471,0.4967,0.579,0.9203,0.715
+unified_variant,berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),1.2091,0.3688,,0.4691,,9.9356,,0.6647,,-11.3652,-3.7304,28.3061,-8.3741,0.517,0.5872,0.9196,0.7171

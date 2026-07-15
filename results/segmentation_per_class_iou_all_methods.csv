@@ -1,0 +1,169 @@
+class_id,class_name,iou,dice,method,display_name
+0,background,0.9871298600180852,0.9935232516802914,fpn_convnextv2_tiny,FPN ConvNeXtV2-T
+1,green_immature,0.6225923842129835,0.7674045438281328,fpn_convnextv2_tiny,FPN ConvNeXtV2-T
+2,pale_pink,0.4619350571022783,0.6319501743365894,fpn_convnextv2_tiny,FPN ConvNeXtV2-T
+3,pink_turns_purple,0.4851349243487755,0.6533210099567281,fpn_convnextv2_tiny,FPN ConvNeXtV2-T
+4,fully_ripe,0.6403627347974271,0.7807574766400766,fpn_convnextv2_tiny,FPN ConvNeXtV2-T
+5,over_ripe,0.1302752618798631,0.2305195314337687,fpn_convnextv2_tiny,FPN ConvNeXtV2-T
+0,background,0.973855605388504,0.9867546569566064,fpn_swin_tiny,FPN Swin-T
+1,green_immature,0.297019397571361,0.4580030154175381,fpn_swin_tiny,FPN Swin-T
+2,pale_pink,0.2514855687606112,0.401899270815669,fpn_swin_tiny,FPN Swin-T
+3,pink_turns_purple,0.1133040935672514,0.2035456336178595,fpn_swin_tiny,FPN Swin-T
+4,fully_ripe,0.5198549750738408,0.6840849733687047,fpn_swin_tiny,FPN Swin-T
+5,over_ripe,0.0,0.0,fpn_swin_tiny,FPN Swin-T
+0,background,0.9852383394023236,0.992564287972536,deeplabv3_resnet50,DeepLabV3 ResNet-50
+1,green_immature,0.5790802139875147,0.7334398960331643,deeplabv3_resnet50,DeepLabV3 ResNet-50
+2,pale_pink,0.4302778126513263,0.601670261323168,deeplabv3_resnet50,DeepLabV3 ResNet-50
+3,pink_turns_purple,0.4143763543111914,0.5859492108279694,deeplabv3_resnet50,DeepLabV3 ResNet-50
+4,fully_ripe,0.6305969918774514,0.7734553602375888,deeplabv3_resnet50,DeepLabV3 ResNet-50
+5,over_ripe,0.1188391916483095,0.2124330154599462,deeplabv3_resnet50,DeepLabV3 ResNet-50
+0,background,0.9843475082168458,0.99211202084396,deeplabv3_resnet101,DeepLabV3 ResNet-101
+1,green_immature,0.5518053655344715,0.7111785766308639,deeplabv3_resnet101,DeepLabV3 ResNet-101
+2,pale_pink,0.4347342377496969,0.6060136104809962,deeplabv3_resnet101,DeepLabV3 ResNet-101
+3,pink_turns_purple,0.4075617090590152,0.5791031489929899,deeplabv3_resnet101,DeepLabV3 ResNet-101
+4,fully_ripe,0.6130819573390499,0.7601373935771916,deeplabv3_resnet101,DeepLabV3 ResNet-101
+5,over_ripe,0.1237068539214716,0.2201763805030893,deeplabv3_resnet101,DeepLabV3 ResNet-101
+0,background,0.9763793967556218,0.98804854812636,deeplabv3_mobilenet_v3_large,DeepLabV3 MobileNetV3
+1,green_immature,0.3806187128900375,0.551374118482418,deeplabv3_mobilenet_v3_large,DeepLabV3 MobileNetV3
+2,pale_pink,0.2403270082353177,0.3875220109529733,deeplabv3_mobilenet_v3_large,DeepLabV3 MobileNetV3
+3,pink_turns_purple,0.348492241631697,0.5168620639745259,deeplabv3_mobilenet_v3_large,DeepLabV3 MobileNetV3
+4,fully_ripe,0.4989670360675267,0.6657478437638555,deeplabv3_mobilenet_v3_large,DeepLabV3 MobileNetV3
+5,over_ripe,0.0979405226290843,0.1784077017114914,deeplabv3_mobilenet_v3_large,DeepLabV3 MobileNetV3
+0,background,0.9841224717778068,0.9919977075770092,fcn_resnet50,FCN ResNet-50
+1,green_immature,0.5412207389860143,0.7023273503860183,fcn_resnet50,FCN ResNet-50
+2,pale_pink,0.4349191702305112,0.6061932675422325,fcn_resnet50,FCN ResNet-50
+3,pink_turns_purple,0.3815957464001163,0.5523985541999555,fcn_resnet50,FCN ResNet-50
+4,fully_ripe,0.6173167284257173,0.763383841366197,fcn_resnet50,FCN ResNet-50
+5,over_ripe,0.0904135941006732,0.1658335783593061,fcn_resnet50,FCN ResNet-50
+0,background,0.9832460502288788,0.9915522585968656,fcn_resnet101,FCN ResNet-101
+1,green_immature,0.5469152348397006,0.7071043358059304,fcn_resnet101,FCN ResNet-101
+2,pale_pink,0.417173590504451,0.588740283194179,fcn_resnet101,FCN ResNet-101
+3,pink_turns_purple,0.3779149519890261,0.5485316077650573,fcn_resnet101,FCN ResNet-101
+4,fully_ripe,0.5783136207554369,0.7328247227298659,fcn_resnet101,FCN ResNet-101
+5,over_ripe,0.1255203996669442,0.2230442019604216,fcn_resnet101,FCN ResNet-101
+0,background,0.9808903378290544,0.9903529933959452,lraspp_mobilenet_v3_large,LR-ASPP MobileNetV3
+1,green_immature,0.4808762391450986,0.6494482475087935,lraspp_mobilenet_v3_large,LR-ASPP MobileNetV3
+2,pale_pink,0.3754804735547355,0.5459626374547639,lraspp_mobilenet_v3_large,LR-ASPP MobileNetV3
+3,pink_turns_purple,0.3447661743482667,0.5127525973284621,lraspp_mobilenet_v3_large,LR-ASPP MobileNetV3
+4,fully_ripe,0.5591780286902434,0.7172728429991664,lraspp_mobilenet_v3_large,LR-ASPP MobileNetV3
+5,over_ripe,0.1145535070553095,0.2055594573614756,lraspp_mobilenet_v3_large,LR-ASPP MobileNetV3
+0,background,0.9856342354962871,0.992765150677349,fpn_resnet50,FPN ResNet-50
+1,green_immature,0.5880891305180137,0.7406248417885548,fpn_resnet50,FPN ResNet-50
+2,pale_pink,0.4092263157008937,0.5807815411073425,fpn_resnet50,FPN ResNet-50
+3,pink_turns_purple,0.4012576454242046,0.5727107312984279,fpn_resnet50,FPN ResNet-50
+4,fully_ripe,0.6394421866994243,0.7800728709888441,fpn_resnet50,FPN ResNet-50
+5,over_ripe,0.1022570439730768,0.1855411939205979,fpn_resnet50,FPN ResNet-50
+0,background,0.9869950563901572,0.993454969317604,fpn_convnextv2_tiny_tta,FPN ConvNeXtV2-T + Flip TTA
+1,green_immature,0.6349324501759829,0.7767078696219397,fpn_convnextv2_tiny_tta,FPN ConvNeXtV2-T + Flip TTA
+2,pale_pink,0.479124893291775,0.647849137641769,fpn_convnextv2_tiny_tta,FPN ConvNeXtV2-T + Flip TTA
+3,pink_turns_purple,0.511083180987203,0.6764461247637051,fpn_convnextv2_tiny_tta,FPN ConvNeXtV2-T + Flip TTA
+4,fully_ripe,0.6767162392949301,0.8071923244203726,fpn_convnextv2_tiny_tta,FPN ConvNeXtV2-T + Flip TTA
+5,over_ripe,0.1344997967957904,0.2371085427704142,fpn_convnextv2_tiny_tta,FPN ConvNeXtV2-T + Flip TTA
+0,background,0.9867578955246182,0.9933348172390752,fpn_efficientnetv2_s,FPN EfficientNetV2-S
+1,green_immature,0.6199456222766615,0.7653906572560056,fpn_efficientnetv2_s,FPN EfficientNetV2-S
+2,pale_pink,0.3465802293912309,0.5147561531449407,fpn_efficientnetv2_s,FPN EfficientNetV2-S
+3,pink_turns_purple,0.4140865820489574,0.5856594459003518,fpn_efficientnetv2_s,FPN EfficientNetV2-S
+4,fully_ripe,0.6075707828055192,0.7558868191734509,fpn_efficientnetv2_s,FPN EfficientNetV2-S
+5,over_ripe,0.1144326198732512,0.2053648068669528,fpn_efficientnetv2_s,FPN EfficientNetV2-S
+0,background,0.9793541572614678,0.9895694044126512,berrymtl_unified,BerryMTL-ConvNeXtV2 (ours)
+1,green_immature,0.4956213856171582,0.6627631703897352,berrymtl_unified,BerryMTL-ConvNeXtV2 (ours)
+2,pale_pink,0.4045678870653047,0.5760745219807158,berrymtl_unified,BerryMTL-ConvNeXtV2 (ours)
+3,pink_turns_purple,0.374686251503765,0.545122570468566,berrymtl_unified,BerryMTL-ConvNeXtV2 (ours)
+4,fully_ripe,0.562598276429503,0.7200805029876594,berrymtl_unified,BerryMTL-ConvNeXtV2 (ours)
+5,over_ripe,0.103129884764986,0.1869768668028735,berrymtl_unified,BerryMTL-ConvNeXtV2 (ours)
+0,background,0.9847931328175002,0.992338311267274,berrymtl_roi_attention,BerryMTL-ROI-Attention (ours)
+1,green_immature,0.5771738464707881,0.7319089747301085,berrymtl_roi_attention,BerryMTL-ROI-Attention (ours)
+2,pale_pink,0.4264330368935458,0.5979012345679012,berrymtl_roi_attention,BerryMTL-ROI-Attention (ours)
+3,pink_turns_purple,0.422303142146282,0.5938300066032599,berrymtl_roi_attention,BerryMTL-ROI-Attention (ours)
+4,fully_ripe,0.6545138069388718,0.7911856694019764,berrymtl_roi_attention,BerryMTL-ROI-Attention (ours)
+5,over_ripe,0.1251479430005207,0.2224559779521595,berrymtl_roi_attention,BerryMTL-ROI-Attention (ours)
+0,background,0.9786994551582596,0.9892350782296866,berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours)
+1,green_immature,0.4930505258397213,0.6604606037192478,berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours)
+2,pale_pink,0.4013959951992925,0.572851637330689,berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours)
+3,pink_turns_purple,0.3703846153846153,0.5405557114790907,berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours)
+4,fully_ripe,0.5625642783681865,0.7200526546731022,berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours)
+5,over_ripe,0.1028299923701186,0.1864838516934494,berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours)
+0,background,0.9820682250843192,0.9909529981416668,berrymtl_centerdet,BerryMTL-CenterDet (ours)
+1,green_immature,0.5476991450881146,0.7077591879873173,berrymtl_centerdet,BerryMTL-CenterDet (ours)
+2,pale_pink,0.3959658400628886,0.5673001855762463,berrymtl_centerdet,BerryMTL-CenterDet (ours)
+3,pink_turns_purple,0.4600776688333149,0.6302098561659986,berrymtl_centerdet,BerryMTL-CenterDet (ours)
+4,fully_ripe,0.5733772963317672,0.7288490785631154,berrymtl_centerdet,BerryMTL-CenterDet (ours)
+5,over_ripe,0.1379737176769817,0.2424901656931696,berrymtl_centerdet,BerryMTL-CenterDet (ours)
+0,background,0.9824207217208408,0.9911324180147292,berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours)
+1,green_immature,0.55847058054555,0.7166905651180848,berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours)
+2,pale_pink,0.4132462195057695,0.5848184326299306,berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours)
+3,pink_turns_purple,0.4310127389437587,0.602388402582485,berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours)
+4,fully_ripe,0.5794979079497908,0.7337748344370861,berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours)
+5,over_ripe,0.1321431250468832,0.2334389038336668,berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours)
+0,background,0.9825878249023656,0.9912174508090243,berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours)
+1,green_immature,0.5668827973235484,0.7235803447352441,berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours)
+2,pale_pink,0.4188967284407311,0.5904541465834086,berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours)
+3,pink_turns_purple,0.4349506030668525,0.6062237991151097,berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours)
+4,fully_ripe,0.5885764261858224,0.7410111549986883,berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours)
+5,over_ripe,0.1373505576506459,0.2415272173152355,berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours)
+0,background,0.9843422966384876,0.9921093737768748,berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours)
+1,green_immature,0.583059012733023,0.7366232187723929,berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours)
+2,pale_pink,0.4181293837006444,0.5896914463608747,berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours)
+3,pink_turns_purple,0.4454480699574132,0.616346002621232,berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours)
+4,fully_ripe,0.6337713919269948,0.7758385231356958,berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours)
+5,over_ripe,0.1081627970044016,0.1952110236813373,berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours)
+0,background,0.9845855096296934,0.9922328918076284,berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours)
+1,green_immature,0.5888869435115476,0.7412572001001753,berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours)
+2,pale_pink,0.4030230069555912,0.5745066259891315,berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours)
+3,pink_turns_purple,0.44179344963282,0.6128387526595173,berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours)
+4,fully_ripe,0.6236246186637416,0.7681881778523296,berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours)
+5,over_ripe,0.1354470890680471,0.2385793056710717,berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours)
+0,background,0.9851848067547396,0.9925371213829308,berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours)
+1,green_immature,0.5968020614007203,0.7474966069084398,berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours)
+2,pale_pink,0.4204662128759934,0.5920115650265032,berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours)
+3,pink_turns_purple,0.4500241065509552,0.6207125861119481,berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours)
+4,fully_ripe,0.6373591115009758,0.7785208596258463,berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours)
+5,over_ripe,0.1039949859560342,0.1883975693349313,berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours)
+0,background,0.98502988272735,0.9924584927396248,berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours)
+1,green_immature,0.5941938349149378,0.7454474128569722,berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours)
+2,pale_pink,0.3790083561198539,0.5496824648492749,berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours)
+3,pink_turns_purple,0.4158669616294149,0.5874379061021734,berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours)
+4,fully_ripe,0.6487213753151966,0.786938757546194,berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours)
+5,over_ripe,0.127018252018252,0.2254058473157628,berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours)
+0,background,0.9848737991557546,0.9923792631800172,berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours)
+1,green_immature,0.5955852256986336,0.7465414145306517,berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours)
+2,pale_pink,0.4078139669242435,0.5793577511029034,berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours)
+3,pink_turns_purple,0.4190807261490923,0.5906369080021775,berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours)
+4,fully_ripe,0.6434421284647732,0.7830420278514423,berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours)
+5,over_ripe,0.1273657289002557,0.2259528130671506,berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours)
+0,background,0.9836740393176704,0.9917698370000622,berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours)
+1,green_immature,0.5760212163394615,0.7309815507145957,berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours)
+2,pale_pink,0.4205070990264706,0.5920520908549639,berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours)
+3,pink_turns_purple,0.4388540567384691,0.6100049614944885,berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours)
+4,fully_ripe,0.6435459143888724,0.7831188757853049,berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours)
+5,over_ripe,0.1322427933234058,0.2335944094379993,berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours)
+0,background,0.985952401263955,0.9929265179129648,berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours)
+1,green_immature,0.6328006606304521,0.7751107356682683,berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours)
+2,pale_pink,0.4472419285799493,0.6180610439040947,berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours)
+3,pink_turns_purple,0.4530283103758565,0.6235643271928696,berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours)
+4,fully_ripe,0.6359166329159458,0.7774438136036966,berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours)
+5,over_ripe,0.1347934798707125,0.2375647767840006,berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours)
+0,background,0.9863858534771344,0.993146272916194,berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours)
+1,green_immature,0.6387125312456965,0.7795296845141811,berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours)
+2,pale_pink,0.4493374605449749,0.6200591273974476,berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours)
+3,pink_turns_purple,0.490247677048677,0.6579412061484645,berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours)
+4,fully_ripe,0.6383637689859731,0.7792698801940346,berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours)
+5,over_ripe,0.1288083576443718,0.2282200637018185,berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours)
+0,background,0.9866405782684912,0.993275370553866,berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours)
+1,green_immature,0.6387655281430782,0.7795691539434292,berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours)
+2,pale_pink,0.4476722806501434,0.6184718553139605,berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours)
+3,pink_turns_purple,0.4458972796276802,0.616775874621604,berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours)
+4,fully_ripe,0.6403313022046642,0.7807341130953679,berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours)
+5,over_ripe,0.1348781623740103,0.2376962864310713,berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours)
+0,background,0.986492979184698,0.9932005695681616,berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours)
+1,green_immature,0.6397836055523568,0.780326871650662,berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours)
+2,pale_pink,0.4670839708132282,0.6367515153946043,berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours)
+3,pink_turns_purple,0.4826215113590081,0.6510380534228526,berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours)
+4,fully_ripe,0.6413603827950821,0.7814985539042996,berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours)
+5,over_ripe,0.1321993142450015,0.2335265753683266,berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours)
+0,background,0.9865401579337424,0.9932244802540224,berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours)
+1,green_immature,0.6408080922036058,0.781088410336885,berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours)
+2,pale_pink,0.4690823747486751,0.6386059526837955,berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours)
+3,pink_turns_purple,0.4812220235868014,0.6497635275790932,berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours)
+4,fully_ripe,0.6424013856951184,0.7822708764011825,berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours)
+5,over_ripe,0.1320659016185568,0.2333183985662623,berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours)

@@ -1,0 +1,109 @@
+display_name,count_bin,abs_error
+BerryMTL-AgnosticCenter+ROI (ours),"(1.999, 22.0]",4.552734375
+BerryMTL-AgnosticCenter+ROI (ours),"(22.0, 34.0]",7.467516447368421
+BerryMTL-AgnosticCenter+ROI (ours),"(34.0, 60.0]",8.927631578947368
+BerryMTL-AgnosticCenter+ROI (ours),"(60.0, 269.0]",21.957236842105264
+BerryMTL-AgnosticCenter+ROI TileTrain (ours),"(1.999, 22.0]",5.433984375
+BerryMTL-AgnosticCenter+ROI TileTrain (ours),"(22.0, 34.0]",4.878289473684211
+BerryMTL-AgnosticCenter+ROI TileTrain (ours),"(34.0, 60.0]",8.778782894736842
+BerryMTL-AgnosticCenter+ROI TileTrain (ours),"(60.0, 269.0]",19.601973684210527
+BerryMTL-AlignedHighResCenterDet (ours),"(1.999, 22.0]",4.889453125
+BerryMTL-AlignedHighResCenterDet (ours),"(22.0, 34.0]",5.666940789473684
+BerryMTL-AlignedHighResCenterDet (ours),"(34.0, 60.0]",7.7738486842105265
+BerryMTL-AlignedHighResCenterDet (ours),"(60.0, 269.0]",22.189144736842106
+BerryMTL-CenterDet (ours),"(1.999, 22.0]",6.8421875
+BerryMTL-CenterDet (ours),"(22.0, 34.0]",14.024671052631579
+BerryMTL-CenterDet (ours),"(34.0, 60.0]",15.929276315789474
+BerryMTL-CenterDet (ours),"(60.0, 269.0]",26.30263157894737
+BerryMTL-CenterDet+Contrastive (ours),"(1.999, 22.0]",5.002734375
+BerryMTL-CenterDet+Contrastive (ours),"(22.0, 34.0]",8.529605263157896
+BerryMTL-CenterDet+Contrastive (ours),"(34.0, 60.0]",6.5962171052631575
+BerryMTL-CenterDet+Contrastive (ours),"(60.0, 269.0]",26.082236842105264
+BerryMTL-ConvNeXtV2 (ours),"(1.999, 22.0]",10.6078125
+BerryMTL-ConvNeXtV2 (ours),"(22.0, 34.0]",11.042763157894736
+BerryMTL-ConvNeXtV2 (ours),"(34.0, 60.0]",9.327302631578947
+BerryMTL-ConvNeXtV2 (ours),"(60.0, 269.0]",35.44407894736842
+BerryMTL-DecoupledCenterDet (ours),"(1.999, 22.0]",9.077197265625
+BerryMTL-DecoupledCenterDet (ours),"(22.0, 34.0]",3.9802631578947367
+BerryMTL-DecoupledCenterDet (ours),"(34.0, 60.0]",16.52138157894737
+BerryMTL-DecoupledCenterDet (ours),"(60.0, 269.0]",116.41611842105263
+BerryMTL-DecoupledCenterDet+ResidualCount (ours),"(1.999, 22.0]",5.25390625
+BerryMTL-DecoupledCenterDet+ResidualCount (ours),"(22.0, 34.0]",6.25
+BerryMTL-DecoupledCenterDet+ResidualCount (ours),"(34.0, 60.0]",6.957236842105263
+BerryMTL-DecoupledCenterDet+ResidualCount (ours),"(60.0, 269.0]",22.154605263157894
+BerryMTL-HiTile-QualityDet (ours),"(1.999, 22.0]",4.66748046875
+BerryMTL-HiTile-QualityDet (ours),"(22.0, 34.0]",5.110197368421052
+BerryMTL-HiTile-QualityDet (ours),"(34.0, 60.0]",8.392269736842104
+BerryMTL-HiTile-QualityDet (ours),"(60.0, 269.0]",18.80592105263158
+BerryMTL-HighResCenterDet+ResidualCount (ours),"(1.999, 22.0]",5.5078125
+BerryMTL-HighResCenterDet+ResidualCount (ours),"(22.0, 34.0]",6.935855263157895
+BerryMTL-HighResCenterDet+ResidualCount (ours),"(34.0, 60.0]",8.145559210526315
+BerryMTL-HighResCenterDet+ResidualCount (ours),"(60.0, 269.0]",23.036184210526315
+BerryMTL-ROI-Attention (ours),"(1.999, 22.0]",7.308984375
+BerryMTL-ROI-Attention (ours),"(22.0, 34.0]",7.107730263157895
+BerryMTL-ROI-Attention (ours),"(34.0, 60.0]",6.983552631578948
+BerryMTL-ROI-Attention (ours),"(60.0, 269.0]",21.588815789473685
+BerryMTL-ROI-Attention FT (ours),"(1.999, 22.0]",10.6078125
+BerryMTL-ROI-Attention FT (ours),"(22.0, 34.0]",11.042763157894736
+BerryMTL-ROI-Attention FT (ours),"(34.0, 60.0]",9.327302631578947
+BerryMTL-ROI-Attention FT (ours),"(60.0, 269.0]",35.44407894736842
+BerryMTL-SharedCenterDet Matched (ours),"(1.999, 22.0]",6.415625
+BerryMTL-SharedCenterDet Matched (ours),"(22.0, 34.0]",6.111019736842105
+BerryMTL-SharedCenterDet Matched (ours),"(34.0, 60.0]",6.897203947368421
+BerryMTL-SharedCenterDet Matched (ours),"(60.0, 269.0]",22.720394736842106
+BerryMTL-SpecialistAdapterFusion (ours),"(1.999, 22.0]",4.87080078125
+BerryMTL-SpecialistAdapterFusion (ours),"(22.0, 34.0]",4.598684210526316
+BerryMTL-SpecialistAdapterFusion (ours),"(34.0, 60.0]",8.268092105263158
+BerryMTL-SpecialistAdapterFusion (ours),"(60.0, 269.0]",20.40625
+BerryMTL-SpecialistAdapterFusion-UW (ours),"(1.999, 22.0]",4.873828125
+BerryMTL-SpecialistAdapterFusion-UW (ours),"(22.0, 34.0]",4.6636513157894735
+BerryMTL-SpecialistAdapterFusion-UW (ours),"(34.0, 60.0]",8.227796052631579
+BerryMTL-SpecialistAdapterFusion-UW (ours),"(60.0, 269.0]",20.320723684210527
+BerryMTL-SpecialistGuidedDistill (ours),"(1.999, 22.0]",4.7783203125
+BerryMTL-SpecialistGuidedDistill (ours),"(22.0, 34.0]",4.458059210526316
+BerryMTL-SpecialistGuidedDistill (ours),"(34.0, 60.0]",9.020559210526315
+BerryMTL-SpecialistGuidedDistill (ours),"(60.0, 269.0]",19.06907894736842
+BerryMTL-TeacherAlignedDet (ours),"(1.999, 22.0]",4.87392578125
+BerryMTL-TeacherAlignedDet (ours),"(22.0, 34.0]",4.011513157894737
+BerryMTL-TeacherAlignedDet (ours),"(34.0, 60.0]",9.115131578947368
+BerryMTL-TeacherAlignedDet (ours),"(60.0, 269.0]",22.008223684210527
+ConvNeXtV2-T Regression,"(1.999, 22.0]",13.78359375
+ConvNeXtV2-T Regression,"(22.0, 34.0]",3.8708881578947367
+ConvNeXtV2-T Regression,"(34.0, 60.0]",20.252467105263158
+ConvNeXtV2-T Regression,"(60.0, 269.0]",120.1998355263158
+DINOv2 ViT-B/14 Linear Regression,"(1.999, 22.0]",12.115625
+DINOv2 ViT-B/14 Linear Regression,"(22.0, 34.0]",4.592105263157895
+DINOv2 ViT-B/14 Linear Regression,"(34.0, 60.0]",14.042763157894736
+DINOv2 ViT-B/14 Linear Regression,"(60.0, 269.0]",106.27631578947368
+DeiT-III-S Regression,"(1.999, 22.0]",11.90390625
+DeiT-III-S Regression,"(22.0, 34.0]",6.068256578947368
+DeiT-III-S Regression,"(34.0, 60.0]",14.467105263157896
+DeiT-III-S Regression,"(60.0, 269.0]",110.44490131578948
+EfficientNet-B4 Regression,"(1.999, 22.0]",9.07734375
+EfficientNet-B4 Regression,"(22.0, 34.0]",9.27014802631579
+EfficientNet-B4 Regression,"(34.0, 60.0]",13.719572368421053
+EfficientNet-B4 Regression,"(60.0, 269.0]",45.60526315789474
+EfficientNetV2-S Regression,"(1.999, 22.0]",6.914453125
+EfficientNetV2-S Regression,"(22.0, 34.0]",8.479029605263158
+EfficientNetV2-S Regression,"(34.0, 60.0]",9.490953947368421
+EfficientNetV2-S Regression,"(60.0, 269.0]",30.914473684210527
+MaxViT-T Regression,"(1.999, 22.0]",13.78203125
+MaxViT-T Regression,"(22.0, 34.0]",3.8371710526315788
+MaxViT-T Regression,"(34.0, 60.0]",18.111019736842106
+MaxViT-T Regression,"(60.0, 269.0]",117.99588815789474
+MobileNetV3-Large Regression,"(1.999, 22.0]",15.02421875
+MobileNetV3-Large Regression,"(22.0, 34.0]",11.33141447368421
+MobileNetV3-Large Regression,"(34.0, 60.0]",10.605263157894736
+MobileNetV3-Large Regression,"(60.0, 269.0]",34.83552631578947
+ResNet-50 Regression,"(1.999, 22.0]",5.461669921875
+ResNet-50 Regression,"(22.0, 34.0]",8.898848684210526
+ResNet-50 Regression,"(34.0, 60.0]",17.04358552631579
+ResNet-50 Regression,"(60.0, 269.0]",26.866776315789473
+Swin-T Regression,"(1.999, 22.0]",9.643359375
+Swin-T Regression,"(22.0, 34.0]",7.790296052631579
+Swin-T Regression,"(34.0, 60.0]",15.37828947368421
+Swin-T Regression,"(60.0, 269.0]",63.6110197368421
+ViT-B/16 Regression,"(1.999, 22.0]",14.56171875
+ViT-B/16 Regression,"(22.0, 34.0]",9.725328947368421
+ViT-B/16 Regression,"(34.0, 60.0]",23.799342105263158
+ViT-B/16 Regression,"(60.0, 269.0]",52.67927631578947

@@ -1,0 +1,701 @@
+method,display_name,path,true_class,pred_class,confidence
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0023.jpg,fully_ripe,green_immature,0.96630859375
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00007_20260212_161655_f00000198_t000006.601s_fully_ripe_0015.jpg,fully_ripe,over_ripe,0.96142578125
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s_pale_pink_0003.jpg,pale_pink,green_immature,0.96044921875
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_111630_fully_ripe_0018.jpg,fully_ripe,green_immature,0.9599609375
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_114008_fully_ripe_0004.jpg,fully_ripe,green_immature,0.95458984375
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00321_20260212_164110_f00000473_t000015.769s_fully_ripe_0003.jpg,fully_ripe,over_ripe,0.9541015625
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00019_20260212_161655_f00000327_t000010.901s_fully_ripe_0008.jpg,fully_ripe,over_ripe,0.9501953125
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0005.jpg,over_ripe,fully_ripe,0.9443359375
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0009.jpg,over_ripe,fully_ripe,0.943359375
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_113229_green_immature_0007.jpg,green_immature,fully_ripe,0.9423828125
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0005.jpg,over_ripe,fully_ripe,0.94140625
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105552_over_ripe_0001.jpg,over_ripe,fully_ripe,0.94140625
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0007.jpg,over_ripe,fully_ripe,0.93212890625
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_114546_pale_pink_0002.jpg,pale_pink,green_immature,0.93115234375
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0011.jpg,over_ripe,fully_ripe,0.9306640625
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0012.jpg,over_ripe,fully_ripe,0.9287109375
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_110757_fully_ripe_0008.jpg,fully_ripe,green_immature,0.927734375
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113919_over_ripe_0002.jpg,over_ripe,fully_ripe,0.92724609375
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00227_20260212_161655_f00002930_t000097.676s_fully_ripe_0027.jpg,fully_ripe,over_ripe,0.92626953125
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_111434_pale_pink_0001.jpg,pale_pink,green_immature,0.92578125
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0006.jpg,over_ripe,fully_ripe,0.92236328125
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0014.jpg,over_ripe,fully_ripe,0.921875
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113919_over_ripe_0001.jpg,over_ripe,fully_ripe,0.91748046875
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0013.jpg,over_ripe,fully_ripe,0.91162109375
+resnet50,ResNet-50,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0002.jpg,over_ripe,fully_ripe,0.91162109375
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_111952_pale_pink_0001.jpg,pale_pink,pink_turns_purple,0.99853515625
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0032.jpg,fully_ripe,over_ripe,0.99755859375
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00082_20260212_161655_f00001136_t000037.870s_fully_ripe_0010.jpg,fully_ripe,over_ripe,0.99755859375
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00082_20260212_161655_f00001136_t000037.870s_fully_ripe_0005.jpg,fully_ripe,over_ripe,0.9970703125
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00140_20260212_161655_f00001835_t000061.173s_fully_ripe_0006.jpg,fully_ripe,over_ripe,0.9970703125
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00140_20260212_161655_f00001835_t000061.173s_fully_ripe_0003.jpg,fully_ripe,over_ripe,0.99658203125
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s_fully_ripe_0020.jpg,fully_ripe,over_ripe,0.99658203125
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00127_20260212_161655_f00001703_t000056.772s_fully_ripe_0013.jpg,fully_ripe,over_ripe,0.99609375
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00227_20260212_161655_f00002930_t000097.676s_fully_ripe_0023.jpg,fully_ripe,over_ripe,0.99609375
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\00019_20260212_161655_f00000327_t000010.901s_pink_turns_purple_0002.jpg,pink_turns_purple,pale_pink,0.99609375
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00321_20260212_164110_f00000473_t000015.769s_fully_ripe_0008.jpg,fully_ripe,over_ripe,0.99462890625
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00227_20260212_161655_f00002930_t000097.676s_fully_ripe_0014.jpg,fully_ripe,over_ripe,0.99462890625
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00321_20260212_164110_f00000473_t000015.769s_fully_ripe_0006.jpg,fully_ripe,over_ripe,0.99462890625
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_114546_fully_ripe_0036.jpg,fully_ripe,over_ripe,0.99365234375
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00127_20260212_161655_f00001703_t000056.772s_fully_ripe_0004.jpg,fully_ripe,over_ripe,0.99365234375
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00246_20260212_161655_f00003255_t000108.511s_fully_ripe_0006.jpg,fully_ripe,over_ripe,0.9931640625
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00082_20260212_161655_f00001136_t000037.870s_fully_ripe_0019.jpg,fully_ripe,over_ripe,0.99267578125
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_114546_fully_ripe_0030.jpg,fully_ripe,over_ripe,0.9921875
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00007_20260212_161655_f00000198_t000006.601s_fully_ripe_0001.jpg,fully_ripe,over_ripe,0.9921875
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00019_20260212_161655_f00000327_t000010.901s_fully_ripe_0005.jpg,fully_ripe,over_ripe,0.9912109375
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00007_20260212_161655_f00000198_t000006.601s_fully_ripe_0016.jpg,fully_ripe,over_ripe,0.9912109375
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\00223_20260212_161655_f00002878_t000095.943s_pink_turns_purple_0002.jpg,pink_turns_purple,over_ripe,0.99072265625
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00019_20260212_161655_f00000327_t000010.901s_fully_ripe_0006.jpg,fully_ripe,over_ripe,0.990234375
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s_fully_ripe_0023.jpg,fully_ripe,over_ripe,0.9892578125
+resnet50_balanced,ResNet-50 Balanced,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_105552_pale_pink_0001.jpg,pale_pink,pink_turns_purple,0.9892578125
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0004.jpg,over_ripe,fully_ripe,0.9921875
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_114008_fully_ripe_0004.jpg,fully_ripe,green_immature,0.98974609375
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_110757_fully_ripe_0008.jpg,fully_ripe,green_immature,0.986328125
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0023.jpg,fully_ripe,green_immature,0.98291015625
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s_pale_pink_0003.jpg,pale_pink,green_immature,0.97705078125
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0013.jpg,over_ripe,fully_ripe,0.9765625
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113919_over_ripe_0002.jpg,over_ripe,fully_ripe,0.97607421875
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105552_over_ripe_0001.jpg,over_ripe,fully_ripe,0.974609375
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0005.jpg,over_ripe,fully_ripe,0.970703125
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0015.jpg,over_ripe,fully_ripe,0.9619140625
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0002.jpg,over_ripe,fully_ripe,0.95556640625
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_114124_green_immature_0018.jpg,green_immature,pale_pink,0.95556640625
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_111630_fully_ripe_0018.jpg,fully_ripe,green_immature,0.95458984375
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0011.jpg,over_ripe,fully_ripe,0.95263671875
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_113229_green_immature_0007.jpg,green_immature,fully_ripe,0.95263671875
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\20260430_105507_pink_turns_purple_0001.jpg,pink_turns_purple,fully_ripe,0.95166015625
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0008.jpg,over_ripe,fully_ripe,0.94970703125
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0006.jpg,over_ripe,fully_ripe,0.94775390625
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0014.jpg,over_ripe,fully_ripe,0.94677734375
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110647_over_ripe_0001.jpg,over_ripe,fully_ripe,0.94384765625
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00227_20260212_161655_f00002930_t000097.676s_fully_ripe_0027.jpg,fully_ripe,over_ripe,0.9423828125
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_111507_over_ripe_0001.jpg,over_ripe,pink_turns_purple,0.94189453125
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0009.jpg,over_ripe,fully_ripe,0.94140625
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0001.jpg,over_ripe,fully_ripe,0.93896484375
+efficientnetv2_s,EfficientNetV2-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110635_over_ripe_0003.jpg,over_ripe,fully_ripe,0.9384765625
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_111952_pale_pink_0001.jpg,pale_pink,pink_turns_purple,0.9794921875
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105552_over_ripe_0002.jpg,over_ripe,fully_ripe,0.97265625
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105607_over_ripe_0001.jpg,over_ripe,fully_ripe,0.97119140625
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_113229_green_immature_0007.jpg,green_immature,fully_ripe,0.97119140625
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0008.jpg,over_ripe,fully_ripe,0.97021484375
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\00223_20260212_161655_f00002878_t000095.943s_over_ripe_0005.jpg,over_ripe,fully_ripe,0.97021484375
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00611_dji_fly_20260217_114201_0_f00000658_t000021.933s_pale_pink_0001.jpg,pale_pink,pink_turns_purple,0.9697265625
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110647_over_ripe_0002.jpg,over_ripe,fully_ripe,0.9697265625
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0005.jpg,over_ripe,fully_ripe,0.9697265625
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0014.jpg,over_ripe,fully_ripe,0.96923828125
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\20260430_115223_pink_turns_purple_0001.jpg,pink_turns_purple,fully_ripe,0.96923828125
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0004.jpg,over_ripe,fully_ripe,0.96875
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110635_over_ripe_0001.jpg,over_ripe,fully_ripe,0.96875
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_113919_pale_pink_0001.jpg,pale_pink,pink_turns_purple,0.96875
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113919_over_ripe_0002.jpg,over_ripe,fully_ripe,0.96826171875
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105552_over_ripe_0001.jpg,over_ripe,fully_ripe,0.96826171875
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\00223_20260212_161655_f00002878_t000095.943s_pink_turns_purple_0002.jpg,pink_turns_purple,over_ripe,0.9677734375
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0005.jpg,over_ripe,fully_ripe,0.9677734375
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110635_over_ripe_0004.jpg,over_ripe,fully_ripe,0.96728515625
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\00140_20260212_161655_f00001835_t000061.173s_over_ripe_0009.jpg,over_ripe,fully_ripe,0.966796875
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0001.jpg,over_ripe,fully_ripe,0.96630859375
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\00223_20260212_161655_f00002878_t000095.943s_over_ripe_0003.jpg,over_ripe,fully_ripe,0.96630859375
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s_over_ripe_0006.jpg,over_ripe,fully_ripe,0.96630859375
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0011.jpg,over_ripe,fully_ripe,0.96630859375
+convnextv2_tiny,ConvNeXtV2-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_111630_over_ripe_0001.jpg,over_ripe,fully_ripe,0.96630859375
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105552_over_ripe_0001.jpg,over_ripe,fully_ripe,0.99658203125
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110647_over_ripe_0002.jpg,over_ripe,fully_ripe,0.99462890625
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\00019_20260212_161655_f00000327_t000010.901s_pink_turns_purple_0004.jpg,pink_turns_purple,fully_ripe,0.994140625
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00007_20260212_161655_f00000198_t000006.601s_fully_ripe_0015.jpg,fully_ripe,over_ripe,0.9921875
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0013.jpg,over_ripe,fully_ripe,0.9921875
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_113229_green_immature_0007.jpg,green_immature,fully_ripe,0.9912109375
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_111434_green_immature_0028.jpg,green_immature,fully_ripe,0.99072265625
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0005.jpg,over_ripe,fully_ripe,0.986328125
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105607_over_ripe_0001.jpg,over_ripe,fully_ripe,0.98486328125
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0005.jpg,over_ripe,fully_ripe,0.984375
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\20260430_105507_pink_turns_purple_0001.jpg,pink_turns_purple,fully_ripe,0.98388671875
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_114008_fully_ripe_0004.jpg,fully_ripe,green_immature,0.982421875
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00127_20260212_161655_f00001703_t000056.772s_pale_pink_0002.jpg,pale_pink,green_immature,0.9814453125
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_111630_over_ripe_0001.jpg,over_ripe,fully_ripe,0.98046875
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110647_over_ripe_0001.jpg,over_ripe,fully_ripe,0.9794921875
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0005.jpg,fully_ripe,green_immature,0.97802734375
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0011.jpg,over_ripe,fully_ripe,0.97802734375
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0015.jpg,over_ripe,fully_ripe,0.97802734375
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s_pale_pink_0003.jpg,pale_pink,green_immature,0.97509765625
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0004.jpg,over_ripe,fully_ripe,0.9716796875
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\00140_20260212_161655_f00001835_t000061.173s_over_ripe_0022.jpg,over_ripe,fully_ripe,0.97021484375
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00321_20260212_164110_f00000473_t000015.769s_fully_ripe_0003.jpg,fully_ripe,over_ripe,0.97021484375
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0001.jpg,over_ripe,fully_ripe,0.96875
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_115351_green_immature_0004.jpg,green_immature,pale_pink,0.9677734375
+mobilenetv3_large,MobileNetV3-Large,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0001.jpg,over_ripe,fully_ripe,0.96728515625
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105552_over_ripe_0001.jpg,over_ripe,fully_ripe,0.9912109375
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_114008_fully_ripe_0004.jpg,fully_ripe,green_immature,0.98388671875
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_111630_fully_ripe_0018.jpg,fully_ripe,green_immature,0.9755859375
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0011.jpg,over_ripe,fully_ripe,0.9736328125
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113919_over_ripe_0002.jpg,over_ripe,fully_ripe,0.970703125
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_111434_green_immature_0028.jpg,green_immature,fully_ripe,0.966796875
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00246_20260212_161655_f00003255_t000108.511s_fully_ripe_0010.jpg,fully_ripe,over_ripe,0.96533203125
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0023.jpg,fully_ripe,green_immature,0.962890625
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105607_over_ripe_0001.jpg,over_ripe,fully_ripe,0.962890625
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0002.jpg,over_ripe,fully_ripe,0.9580078125
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00127_20260212_161655_f00001703_t000056.772s_fully_ripe_0004.jpg,fully_ripe,over_ripe,0.9560546875
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110635_over_ripe_0004.jpg,over_ripe,fully_ripe,0.95458984375
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_105529_pale_pink_0001.jpg,pale_pink,pink_turns_purple,0.95458984375
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110647_over_ripe_0002.jpg,over_ripe,fully_ripe,0.95361328125
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0012.jpg,over_ripe,fully_ripe,0.9482421875
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_111306_green_immature_0037.jpg,green_immature,fully_ripe,0.9482421875
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0013.jpg,over_ripe,fully_ripe,0.9462890625
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\00246_20260212_161655_f00003255_t000108.511s_pink_turns_purple_0009.jpg,pink_turns_purple,pale_pink,0.9453125
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0004.jpg,over_ripe,fully_ripe,0.94482421875
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110635_over_ripe_0003.jpg,over_ripe,fully_ripe,0.94189453125
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_111630_fully_ripe_0003.jpg,fully_ripe,pink_turns_purple,0.94189453125
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_111630_over_ripe_0001.jpg,over_ripe,fully_ripe,0.9404296875
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0004.jpg,over_ripe,fully_ripe,0.93994140625
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00140_20260212_161655_f00001835_t000061.173s_fully_ripe_0019.jpg,fully_ripe,pink_turns_purple,0.939453125
+efficientnet_b4,EfficientNet-B4,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0008.jpg,over_ripe,fully_ripe,0.93896484375
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0023.jpg,fully_ripe,green_immature,0.9736328125
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_111630_fully_ripe_0018.jpg,fully_ripe,green_immature,0.9697265625
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_114008_fully_ripe_0004.jpg,fully_ripe,green_immature,0.9677734375
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_114546_pale_pink_0002.jpg,pale_pink,green_immature,0.96435546875
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00611_dji_fly_20260217_114201_0_f00000658_t000021.933s_fully_ripe_0012.jpg,fully_ripe,green_immature,0.96435546875
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00127_20260212_161655_f00001703_t000056.772s_pale_pink_0002.jpg,pale_pink,green_immature,0.95947265625
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00587_dji_fly_20260217_114201_0_f00000392_t000013.067s_fully_ripe_0015.jpg,fully_ripe,green_immature,0.958984375
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s_pale_pink_0003.jpg,pale_pink,green_immature,0.9580078125
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105552_over_ripe_0001.jpg,over_ripe,fully_ripe,0.95703125
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_111122_over_ripe_0001.jpg,over_ripe,fully_ripe,0.9560546875
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_111630_over_ripe_0001.jpg,over_ripe,fully_ripe,0.9560546875
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110635_over_ripe_0001.jpg,over_ripe,fully_ripe,0.95361328125
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105607_over_ripe_0001.jpg,over_ripe,fully_ripe,0.95166015625
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_110757_fully_ripe_0008.jpg,fully_ripe,green_immature,0.94775390625
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0008.jpg,over_ripe,fully_ripe,0.94580078125
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_113730_pale_pink_0001.jpg,pale_pink,green_immature,0.943359375
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\00019_20260212_161655_f00000327_t000010.901s_green_immature_0047.jpg,green_immature,fully_ripe,0.94140625
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_111434_green_immature_0028.jpg,green_immature,fully_ripe,0.93896484375
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\20260430_113229_pink_turns_purple_0005.jpg,pink_turns_purple,green_immature,0.935546875
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0005.jpg,over_ripe,fully_ripe,0.9345703125
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110647_over_ripe_0001.jpg,over_ripe,fully_ripe,0.93212890625
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0004.jpg,over_ripe,fully_ripe,0.931640625
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0005.jpg,over_ripe,fully_ripe,0.93017578125
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113919_over_ripe_0002.jpg,over_ripe,fully_ripe,0.927734375
+vit_base_patch16_224,ViT-Base/16,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0004.jpg,over_ripe,fully_ripe,0.92431640625
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0023.jpg,fully_ripe,green_immature,0.9453125
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_111630_fully_ripe_0018.jpg,fully_ripe,green_immature,0.94091796875
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_114008_fully_ripe_0004.jpg,fully_ripe,green_immature,0.94091796875
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s_pale_pink_0003.jpg,pale_pink,green_immature,0.9296875
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00587_dji_fly_20260217_114201_0_f00000392_t000013.067s_fully_ripe_0015.jpg,fully_ripe,green_immature,0.9287109375
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0005.jpg,fully_ripe,green_immature,0.9267578125
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110635_over_ripe_0003.jpg,over_ripe,fully_ripe,0.90625
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105552_over_ripe_0001.jpg,over_ripe,fully_ripe,0.8994140625
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105607_over_ripe_0001.jpg,over_ripe,fully_ripe,0.89697265625
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_111630_pale_pink_0001.jpg,pale_pink,green_immature,0.896484375
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0007.jpg,over_ripe,fully_ripe,0.8916015625
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0005.jpg,over_ripe,fully_ripe,0.89013671875
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_110757_fully_ripe_0005.jpg,fully_ripe,green_immature,0.88427734375
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0011.jpg,over_ripe,fully_ripe,0.8837890625
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110647_over_ripe_0001.jpg,over_ripe,fully_ripe,0.88232421875
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_111135_pale_pink_0001.jpg,pale_pink,pink_turns_purple,0.88134765625
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00127_20260212_161655_f00001703_t000056.772s_pale_pink_0002.jpg,pale_pink,green_immature,0.87744140625
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0013.jpg,over_ripe,fully_ripe,0.87353515625
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113919_over_ripe_0002.jpg,over_ripe,fully_ripe,0.87255859375
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_111630_over_ripe_0001.jpg,over_ripe,fully_ripe,0.8681640625
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_114516_fully_ripe_0007.jpg,fully_ripe,pink_turns_purple,0.8662109375
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0002.jpg,over_ripe,fully_ripe,0.86328125
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\20260430_113229_pink_turns_purple_0005.jpg,pink_turns_purple,green_immature,0.86279296875
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0010.jpg,over_ripe,fully_ripe,0.861328125
+swin_tiny,Swin-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0006.jpg,over_ripe,fully_ripe,0.85986328125
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_114008_fully_ripe_0004.jpg,fully_ripe,green_immature,0.9638671875
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_111630_fully_ripe_0018.jpg,fully_ripe,green_immature,0.96240234375
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0023.jpg,fully_ripe,green_immature,0.96142578125
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00587_dji_fly_20260217_114201_0_f00000392_t000013.067s_fully_ripe_0015.jpg,fully_ripe,green_immature,0.95703125
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0005.jpg,fully_ripe,green_immature,0.955078125
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00611_dji_fly_20260217_114201_0_f00000658_t000021.933s_fully_ripe_0012.jpg,fully_ripe,green_immature,0.95458984375
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00127_20260212_161655_f00001703_t000056.772s_pale_pink_0002.jpg,pale_pink,green_immature,0.953125
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_114546_pale_pink_0002.jpg,pale_pink,green_immature,0.953125
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_110757_fully_ripe_0003.jpg,fully_ripe,green_immature,0.9521484375
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_110757_fully_ripe_0008.jpg,fully_ripe,green_immature,0.94970703125
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s_pale_pink_0003.jpg,pale_pink,green_immature,0.93994140625
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105552_over_ripe_0001.jpg,over_ripe,fully_ripe,0.93701171875
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0014.jpg,fully_ripe,green_immature,0.9365234375
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_105607_over_ripe_0001.jpg,over_ripe,fully_ripe,0.93408203125
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0007.jpg,over_ripe,fully_ripe,0.92529296875
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0001.jpg,over_ripe,fully_ripe,0.91259765625
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110647_over_ripe_0001.jpg,over_ripe,fully_ripe,0.90966796875
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113919_over_ripe_0002.jpg,over_ripe,fully_ripe,0.90869140625
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\00223_20260212_161655_f00002878_t000095.943s_over_ripe_0003.jpg,over_ripe,fully_ripe,0.90380859375
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0011.jpg,over_ripe,fully_ripe,0.90087890625
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_111630_over_ripe_0001.jpg,over_ripe,fully_ripe,0.8984375
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_111434_green_immature_0028.jpg,green_immature,fully_ripe,0.8974609375
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_111434_green_immature_0030.jpg,green_immature,pale_pink,0.8974609375
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\00246_20260212_161655_f00003255_t000108.511s_pink_turns_purple_0007.jpg,pink_turns_purple,fully_ripe,0.89453125
+deit3_small,DeiT-III-S,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0014.jpg,over_ripe,fully_ripe,0.8935546875
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_111507_pale_pink_0001.jpg,pale_pink,pink_turns_purple,0.9599609375
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_113229_pale_pink_0001.jpg,pale_pink,pink_turns_purple,0.9599609375
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s_pale_pink_0003.jpg,pale_pink,green_immature,0.95947265625
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_114008_fully_ripe_0004.jpg,fully_ripe,green_immature,0.95849609375
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_111630_fully_ripe_0018.jpg,fully_ripe,green_immature,0.95849609375
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_113345_pale_pink_0001.jpg,pale_pink,green_immature,0.95849609375
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00127_20260212_161655_f00001703_t000056.772s_pale_pink_0002.jpg,pale_pink,green_immature,0.9580078125
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0023.jpg,fully_ripe,green_immature,0.9580078125
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00257_20260212_161655_f00003374_t000112.478s_pale_pink_0004.jpg,pale_pink,green_immature,0.95703125
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00140_20260212_161655_f00001835_t000061.173s_pale_pink_0005.jpg,pale_pink,pink_turns_purple,0.95654296875
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_112502_fully_ripe_0044.jpg,fully_ripe,green_immature,0.953125
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_110757_fully_ripe_0008.jpg,fully_ripe,green_immature,0.94580078125
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110635_over_ripe_0001.jpg,over_ripe,fully_ripe,0.94384765625
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110635_over_ripe_0002.jpg,over_ripe,fully_ripe,0.94287109375
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00257_20260212_161655_f00003374_t000112.478s_fully_ripe_0005.jpg,fully_ripe,green_immature,0.94091796875
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0005.jpg,over_ripe,fully_ripe,0.939453125
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00611_dji_fly_20260217_114201_0_f00000658_t000021.933s_fully_ripe_0012.jpg,fully_ripe,green_immature,0.939453125
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\00611_dji_fly_20260217_114201_0_f00000658_t000021.933s_pale_pink_0001.jpg,pale_pink,pink_turns_purple,0.939453125
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0008.jpg,over_ripe,fully_ripe,0.93896484375
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_113229_green_immature_0007.jpg,green_immature,fully_ripe,0.9384765625
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00007_20260212_161655_f00000198_t000006.601s_fully_ripe_0015.jpg,fully_ripe,over_ripe,0.93798828125
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0004.jpg,over_ripe,fully_ripe,0.9375
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_110635_over_ripe_0004.jpg,over_ripe,fully_ripe,0.9375
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113919_over_ripe_0002.jpg,over_ripe,fully_ripe,0.9375
+maxvit_tiny,MaxViT-T,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\20260430_114341_pink_turns_purple_0005.jpg,pink_turns_purple,fully_ripe,0.93701171875
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113229_over_ripe_0009.jpg,over_ripe,fully_ripe,0.97802734375
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_114008_fully_ripe_0004.jpg,fully_ripe,green_immature,0.97802734375
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_111630_fully_ripe_0018.jpg,fully_ripe,green_immature,0.9755859375
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\00223_20260212_161655_f00002878_t000095.943s_over_ripe_0019.jpg,over_ripe,green_immature,0.9716796875
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s_over_ripe_0011.jpg,over_ripe,fully_ripe,0.9658203125
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\green_immature\20260430_113107_green_immature_0016.jpg,green_immature,fully_ripe,0.9599609375
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_113919_fully_ripe_0016.jpg,fully_ripe,green_immature,0.9453125
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0001.jpg,over_ripe,fully_ripe,0.94140625
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s_over_ripe_0005.jpg,over_ripe,green_immature,0.94140625
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0004.jpg,over_ripe,fully_ripe,0.9326171875
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_111434_pale_pink_0001.jpg,pale_pink,green_immature,0.9296875
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\20260430_105507_pink_turns_purple_0001.jpg,pink_turns_purple,fully_ripe,0.927734375
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_110740_fully_ripe_0012.jpg,fully_ripe,green_immature,0.916015625
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\over_ripe\20260430_113251_over_ripe_0005.jpg,over_ripe,fully_ripe,0.91455078125
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_110502_fully_ripe_0003.jpg,fully_ripe,green_immature,0.912109375
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\20260430_113229_pink_turns_purple_0005.jpg,pink_turns_purple,fully_ripe,0.90283203125
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_112502_fully_ripe_0001.jpg,fully_ripe,green_immature,0.90087890625
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_113032_pale_pink_0002.jpg,pale_pink,green_immature,0.89501953125
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_113919_fully_ripe_0036.jpg,fully_ripe,green_immature,0.8935546875
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_105937_fully_ripe_0002.jpg,fully_ripe,green_immature,0.892578125
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\20260430_110757_fully_ripe_0008.jpg,fully_ripe,green_immature,0.89111328125
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\fully_ripe\00227_20260212_161655_f00002930_t000097.676s_fully_ripe_0025.jpg,fully_ripe,green_immature,0.888671875
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\pale_pink\20260430_105937_pale_pink_0002.jpg,pale_pink,green_immature,0.8876953125
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\00019_20260212_161655_f00000327_t000010.901s_pink_turns_purple_0006.jpg,pink_turns_purple,green_immature,0.8818359375
+dinov2_vitb14_linear,DINOv2 ViT-B/14 + Linear,.\outputs\fresh_benchmark_514\06_classification\crops\pink_turns_purple\00227_20260212_161655_f00002930_t000097.676s_pink_turns_purple_0012.jpg,pink_turns_purple,green_immature,0.8798828125
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,pale_pink,green_immature,0.958059310913086
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,green_immature,0.912006378173828
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_110757.jpg,fully_ripe,green_immature,0.9110836386680604
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_113730.jpg,fully_ripe,green_immature,0.9102428555488586
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.8908447027206421
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_110309.jpg,fully_ripe,green_immature,0.861302375793457
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.8566290140151978
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.8527880907058716
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.8396086096763611
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.8302844166755676
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_110635.jpg,over_ripe,fully_ripe,0.8300825357437134
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.8271285891532898
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_105607.jpg,over_ripe,fully_ripe,0.8257508277893066
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_113919.jpg,pale_pink,pink_turns_purple,0.8221186399459839
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_111135.jpg,pale_pink,pink_turns_purple,0.8209852576255798
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_114051.jpg,pale_pink,pink_turns_purple,0.816886842250824
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\00007_20260212_161655_f00000198_t000006.601s.jpg,fully_ripe,green_immature,0.8154580593109131
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_113229.jpg,green_immature,fully_ripe,0.8074184656143188
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.7889227867126465
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,fully_ripe,0.786234438419342
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pale_pink,green_immature,0.7859914898872375
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_111306.jpg,pale_pink,green_immature,0.7856906652450562
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_111630.jpg,pale_pink,pink_turns_purple,0.7836425304412842
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.7792794108390808
+berrymtl_unified,BerryMTL-ConvNeXtV2 (ours),.\data\combined_514\images\00007_20260212_161655_f00000198_t000006.601s.jpg,fully_ripe,green_immature,0.7781717777252197
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.991266429424286
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\20260430_111630.jpg,pale_pink,pink_turns_purple,0.9903218150138856
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\20260430_111630.jpg,fully_ripe,pink_turns_purple,0.9903167486190796
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.9896767735481262
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\20260430_110757.jpg,pink_turns_purple,pale_pink,0.9894262552261353
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,pink_turns_purple,0.9891828894615172
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,pink_turns_purple,pale_pink,0.9878117442131042
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00019_20260212_161655_f00000327_t000010.901s.jpg,pink_turns_purple,pale_pink,0.9845991134643556
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00007_20260212_161655_f00000198_t000006.601s.jpg,fully_ripe,over_ripe,0.984078884124756
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.9840009212493896
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,over_ripe,0.9836636781692504
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,over_ripe,0.9827862977981568
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\20260430_113919.jpg,pale_pink,pink_turns_purple,0.982677400112152
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.980886936187744
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00019_20260212_161655_f00000327_t000010.901s.jpg,fully_ripe,over_ripe,0.9804894924163818
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00019_20260212_161655_f00000327_t000010.901s.jpg,fully_ripe,over_ripe,0.980272889137268
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00019_20260212_161655_f00000327_t000010.901s.jpg,fully_ripe,over_ripe,0.9802243709564208
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,fully_ripe,over_ripe,0.9788691401481628
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,pink_turns_purple,pale_pink,0.9775373935699464
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.9769195318222046
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.9768773317337036
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,fully_ripe,over_ripe,0.9765955209732056
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,fully_ripe,over_ripe,0.9759986400604248
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,fully_ripe,over_ripe,0.9753968715667723
+berrymtl_roi_attention,BerryMTL-ROI-Attention (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,over_ripe,0.9750660061836244
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_111630.jpg,fully_ripe,green_immature,0.9747793674468994
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_111135.jpg,pale_pink,pink_turns_purple,0.9609529376029968
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9586803317070008
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_110635.jpg,over_ripe,fully_ripe,0.9553762078285216
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_111630.jpg,pale_pink,pink_turns_purple,0.953724205493927
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_114129.jpg,pink_turns_purple,pale_pink,0.9518834352493286
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9496851563453674
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_105607.jpg,over_ripe,fully_ripe,0.9449387788772584
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_114008.jpg,fully_ripe,green_immature,0.9403291940689088
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_112502.jpg,fully_ripe,green_immature,0.938263773918152
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.935307800769806
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_113507.jpg,fully_ripe,pink_turns_purple,0.9351820349693298
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s.jpg,pale_pink,green_immature,0.9345861673355104
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_110635.jpg,over_ripe,fully_ripe,0.9342390298843384
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_113229.jpg,green_immature,fully_ripe,0.934194803237915
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_113919.jpg,over_ripe,fully_ripe,0.9341561198234558
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_115015.jpg,green_immature,pink_turns_purple,0.9331310987472534
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_110757.jpg,fully_ripe,green_immature,0.9326432943344116
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_113919.jpg,pale_pink,pink_turns_purple,0.9323669672012328
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_105507.jpg,fully_ripe,pink_turns_purple,0.9310228228569032
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9307548999786376
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_114516.jpg,fully_ripe,pink_turns_purple,0.9293274879455566
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9277414083480836
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9265004992485046
+berrymtl_roi_attention_ft,BerryMTL-ROI-Attention FT (ours),.\data\combined_514\images\20260430_110635.jpg,over_ripe,fully_ripe,0.9257787466049194
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.9667015671730042
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_110757.jpg,pink_turns_purple,pale_pink,0.9665414094924928
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_114527.jpg,green_immature,pale_pink,0.9615726470947266
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.945971667766571
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_113345.jpg,pale_pink,green_immature,0.9428479671478271
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_105607.jpg,over_ripe,fully_ripe,0.9424827098846436
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9400662779808044
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.9395321607589722
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_110635.jpg,over_ripe,fully_ripe,0.93840891122818
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_105607.jpg,pale_pink,pink_turns_purple,0.9367127418518066
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_105507.jpg,pink_turns_purple,fully_ripe,0.9360520243644714
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9349424839019777
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_113919.jpg,over_ripe,fully_ripe,0.9340785145759584
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_113229.jpg,green_immature,fully_ripe,0.933258891105652
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,fully_ripe,0.9330764412879944
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_110635.jpg,over_ripe,fully_ripe,0.9326627254486084
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9325668811798096
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_105507.jpg,fully_ripe,pink_turns_purple,0.9310979843139648
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_111122.jpg,over_ripe,fully_ripe,0.930454432964325
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_111630.jpg,fully_ripe,green_immature,0.9300546050071716
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_114546.jpg,pale_pink,green_immature,0.9274107217788696
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_113919.jpg,over_ripe,fully_ripe,0.926235556602478
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.925776183605194
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_114008.jpg,fully_ripe,green_immature,0.9227527976036072
+berrymtl_centerdet,BerryMTL-CenterDet (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.922569990158081
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.973076105117798
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_105607.jpg,pale_pink,pink_turns_purple,0.9714100956916808
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_110757.jpg,pink_turns_purple,pale_pink,0.9671151638031006
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_105507.jpg,fully_ripe,pink_turns_purple,0.9644427299499512
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_111507.jpg,over_ripe,pink_turns_purple,0.9640523195266724
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_111630.jpg,pale_pink,pink_turns_purple,0.9624059200286864
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_114051.jpg,pale_pink,pink_turns_purple,0.9619380831718444
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_105607.jpg,over_ripe,fully_ripe,0.9610124230384828
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,over_ripe,pink_turns_purple,0.9605743885040284
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_111941.jpg,pale_pink,pink_turns_purple,0.9604749083518982
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9580449461936952
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\00611_dji_fly_20260217_114201_0_f00000658_t000021.933s.jpg,pale_pink,pink_turns_purple,0.9572812914848328
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_113229.jpg,green_immature,fully_ripe,0.9568676352500916
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,fully_ripe,0.9566269516944884
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9563798904418944
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_105507.jpg,pink_turns_purple,fully_ripe,0.9541955590248108
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.9533599019050598
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9531626105308532
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\00669_dji_fly_20260217_114521_0_f00000372_t000012.400s.jpg,over_ripe,fully_ripe,0.9524176716804504
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_113919.jpg,over_ripe,fully_ripe,0.9514678716659546
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\00321_20260212_164110_f00000473_t000015.769s.jpg,over_ripe,fully_ripe,0.9483351707458496
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9482879042625428
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_114516.jpg,fully_ripe,pink_turns_purple,0.947579860687256
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_114516.jpg,fully_ripe,pink_turns_purple,0.9467865228652954
+berrymtl_centerdet_plus,BerryMTL-CenterDet+Contrastive (ours),.\data\combined_514\images\20260430_114527.jpg,green_immature,pale_pink,0.9454360008239746
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_105507.jpg,fully_ripe,pink_turns_purple,0.98891419172287
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_111941.jpg,pale_pink,pink_turns_purple,0.9875760078430176
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,over_ripe,pink_turns_purple,0.987222135066986
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\00611_dji_fly_20260217_114201_0_f00000658_t000021.933s.jpg,pink_turns_purple,pale_pink,0.98611718416214
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_111109.jpg,pink_turns_purple,pale_pink,0.9860403537750244
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_110757.jpg,pink_turns_purple,pale_pink,0.9860388040542604
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.9857692122459412
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,pale_pink,0.9848418235778807
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_114516.jpg,fully_ripe,pink_turns_purple,0.9837098121643066
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\00611_dji_fly_20260217_114201_0_f00000658_t000021.933s.jpg,pale_pink,pink_turns_purple,0.9818223714828492
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,pink_turns_purple,pale_pink,0.9817043542861938
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9803367257118224
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9793367385864258
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_114516.jpg,fully_ripe,pink_turns_purple,0.9791967272758484
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_113919.jpg,pale_pink,pink_turns_purple,0.9782958626747132
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.9772104620933532
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_113507.jpg,fully_ripe,pink_turns_purple,0.9771257638931274
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_105937.jpg,fully_ripe,pink_turns_purple,0.97539085149765
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.9751136302947998
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_114516.jpg,pink_turns_purple,pale_pink,0.9724741578102112
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_113229.jpg,green_immature,fully_ripe,0.9723729491233826
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_111507.jpg,over_ripe,pink_turns_purple,0.9722787141799928
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,fully_ripe,0.9720788598060608
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9699409604072572
+berrymtl_centerdet_agnostic,BerryMTL-AgnosticCenter+ROI (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,fully_ripe,0.9696307182312012
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.989429533481598
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.9874430298805236
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_105507.jpg,fully_ripe,pink_turns_purple,0.9856438636779784
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,over_ripe,pink_turns_purple,0.9807892441749572
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_110757.jpg,pink_turns_purple,pale_pink,0.9797616004943848
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.9797139763832092
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,pale_pink,0.9746723175048828
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,pink_turns_purple,pale_pink,0.9723517894744872
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_113919.jpg,pale_pink,pink_turns_purple,0.9699223041534424
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_105529.jpg,pale_pink,pink_turns_purple,0.969835638999939
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_111109.jpg,pink_turns_purple,pale_pink,0.9678338766098022
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_111941.jpg,pale_pink,pink_turns_purple,0.9678003787994384
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_114527.jpg,green_immature,pale_pink,0.9667903780937196
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9642285704612732
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9641442894935608
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\00611_dji_fly_20260217_114201_0_f00000658_t000021.933s.jpg,pink_turns_purple,pale_pink,0.963956654071808
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_111507.jpg,pale_pink,pink_turns_purple,0.9638951420783995
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_114516.jpg,fully_ripe,pink_turns_purple,0.9635835886001588
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9627512693405152
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_105607.jpg,pale_pink,pink_turns_purple,0.9619634747505188
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_113229.jpg,green_immature,fully_ripe,0.9617790579795836
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.9617275595664978
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_114516.jpg,fully_ripe,pink_turns_purple,0.9617264270782472
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.961433470249176
+berrymtl_centerdet_tiletrain,BerryMTL-AgnosticCenter+ROI TileTrain (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,fully_ripe,0.9605364799499512
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.9938759207725524
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,pale_pink,0.9921746850013732
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.9918851852416992
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.9917783141136168
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_110757.jpg,pink_turns_purple,pale_pink,0.9913018941879272
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,over_ripe,pink_turns_purple,0.9890051484107972
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_105507.jpg,fully_ripe,pink_turns_purple,0.9879283308982848
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,pale_pink,0.9847997426986694
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_111507.jpg,over_ripe,pink_turns_purple,0.983100414276123
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_105529.jpg,pale_pink,pink_turns_purple,0.9826858043670654
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_110337.jpg,pale_pink,pink_turns_purple,0.9820689558982848
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\00611_dji_fly_20260217_114201_0_f00000658_t000021.933s.jpg,pink_turns_purple,pale_pink,0.979840874671936
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\00007_20260212_161655_f00000198_t000006.601s.jpg,fully_ripe,over_ripe,0.9791304469108582
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_114527.jpg,green_immature,pale_pink,0.9785701036453248
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_105607.jpg,pale_pink,pink_turns_purple,0.9781429767608644
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.9771879315376282
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,over_ripe,pink_turns_purple,0.9757789969444276
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,fully_ripe,over_ripe,0.9743460416793824
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.9741947650909424
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\00007_20260212_161655_f00000198_t000006.601s.jpg,fully_ripe,over_ripe,0.9740815162658693
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,over_ripe,0.9738407731056212
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,fully_ripe,over_ripe,0.9737970232963562
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_111507.jpg,pale_pink,pink_turns_purple,0.9736276268959044
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\00019_20260212_161655_f00000327_t000010.901s.jpg,fully_ripe,over_ripe,0.9736044406890868
+berrymtl_centerdet_decoupled,BerryMTL-DecoupledCenterDet (ours),.\data\combined_514\images\20260430_111941.jpg,pale_pink,pink_turns_purple,0.9719091057777404
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.9965217113494872
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.9954631924629213
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_105507.jpg,fully_ripe,pink_turns_purple,0.9948050379753112
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,pale_pink,0.994214117527008
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_105529.jpg,pale_pink,pink_turns_purple,0.9921647310256958
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,pink_turns_purple,pale_pink,0.9919258952140808
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_110757.jpg,pink_turns_purple,pale_pink,0.9915884137153624
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.99095356464386
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,over_ripe,pink_turns_purple,0.9906091690063475
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_111109.jpg,pink_turns_purple,pale_pink,0.9878826141357422
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,over_ripe,pink_turns_purple,0.9873161315917968
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,pink_turns_purple,0.9848461151123048
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pink_turns_purple,pale_pink,0.9841200709342957
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_113919.jpg,pale_pink,pink_turns_purple,0.983346700668335
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_111507.jpg,over_ripe,pink_turns_purple,0.9826619625091552
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_114516.jpg,pink_turns_purple,pale_pink,0.981016218662262
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_110337.jpg,pale_pink,pink_turns_purple,0.9796978235244752
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,over_ripe,0.9796104431152344
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_105347.jpg,pale_pink,pink_turns_purple,0.9793553948402404
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,over_ripe,0.9790695309638976
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pink_turns_purple,pale_pink,0.97904372215271
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\00019_20260212_161655_f00000327_t000010.901s.jpg,pink_turns_purple,pale_pink,0.9769322872161864
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.975852906703949
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,over_ripe,0.9751272201538086
+berrymtl_centerdet_decoupled_residual,BerryMTL-DecoupledCenterDet+ResidualCount (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.974302053451538
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.995958149433136
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\20260430_105507.jpg,fully_ripe,pink_turns_purple,0.994964361190796
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,pink_turns_purple,pale_pink,0.9942071437835692
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.9938172698020936
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00611_dji_fly_20260217_114201_0_f00000658_t000021.933s.jpg,pink_turns_purple,pale_pink,0.9923239946365356
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pink_turns_purple,pale_pink,0.9920942187309264
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\20260430_105529.jpg,pale_pink,pink_turns_purple,0.9916131496429444
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\20260430_105607.jpg,pale_pink,pink_turns_purple,0.9912071824073792
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\20260430_110757.jpg,pink_turns_purple,pale_pink,0.9906408190727234
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pink_turns_purple,pale_pink,0.9899168610572816
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.9880778193473816
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\20260430_111941.jpg,pale_pink,pink_turns_purple,0.9873507618904114
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,pale_pink,0.986778974533081
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\20260430_110337.jpg,pale_pink,pink_turns_purple,0.986556589603424
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,green_immature,pale_pink,0.985292375087738
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,over_ripe,0.9850760102272034
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\20260430_111306.jpg,pale_pink,pink_turns_purple,0.9850499033927916
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\20260430_113824.jpg,pale_pink,pink_turns_purple,0.9849987626075744
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00019_20260212_161655_f00000327_t000010.901s.jpg,fully_ripe,over_ripe,0.9835830330848694
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.9834446907043456
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,pink_turns_purple,0.9822368025779724
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.9822115302085876
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00007_20260212_161655_f00000198_t000006.601s.jpg,fully_ripe,over_ripe,0.9822063446044922
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.9814075827598572
+berrymtl_centerdet_shared_matched,BerryMTL-SharedCenterDet Matched (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.9813771843910216
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.9961352348327636
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.9958347082138062
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,fully_ripe,over_ripe,0.9944978356361388
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\20260430_110757.jpg,pink_turns_purple,pale_pink,0.994330644607544
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.99411940574646
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00007_20260212_161655_f00000198_t000006.601s.jpg,fully_ripe,over_ripe,0.9940072298049928
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00007_20260212_161655_f00000198_t000006.601s.jpg,fully_ripe,over_ripe,0.9936445951461792
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.993245542049408
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,fully_ripe,over_ripe,0.9929117560386658
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\20260430_113919.jpg,pale_pink,pink_turns_purple,0.9916985034942628
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,fully_ripe,over_ripe,0.9912711381912231
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,fully_ripe,over_ripe,0.9911321997642516
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\20260430_105507.jpg,fully_ripe,pink_turns_purple,0.9910401701927184
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pink_turns_purple,pale_pink,0.9908614158630372
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,pale_pink,0.9908171892166138
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,fully_ripe,over_ripe,0.990304946899414
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\20260430_111109.jpg,pink_turns_purple,pale_pink,0.989766538143158
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,over_ripe,0.9893770217895508
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,over_ripe,pink_turns_purple,0.9893544912338256
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00082_20260212_161655_f00001136_t000037.870s.jpg,fully_ripe,over_ripe,0.9890726208686828
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.9889065027236938
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,over_ripe,pink_turns_purple,0.9881062507629396
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00019_20260212_161655_f00000327_t000010.901s.jpg,fully_ripe,over_ripe,0.9877939224243164
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,over_ripe,0.987654983997345
+berrymtl_centerdet_aligned_highres,BerryMTL-AlignedHighResCenterDet (ours),.\data\combined_514\images\20260430_111941.jpg,pale_pink,pink_turns_purple,0.9865880608558656
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.9936904907226562
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.989063322544098
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,pale_pink,0.988129734992981
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_105507.jpg,fully_ripe,pink_turns_purple,0.9873690009117126
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_112502.jpg,green_immature,pale_pink,0.9837383031845092
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9808694124221802
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_110757.jpg,pink_turns_purple,pale_pink,0.9805014729499816
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pink_turns_purple,pale_pink,0.9795907735824584
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_110337.jpg,pale_pink,pink_turns_purple,0.9789938926696776
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\00227_20260212_161655_f00002930_t000097.676s.jpg,over_ripe,pink_turns_purple,0.9785611629486084
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9783387184143066
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9766414761543274
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.976271390914917
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_110635.jpg,over_ripe,fully_ripe,0.9757983684539796
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.975666046142578
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.9749814867973328
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_105607.jpg,over_ripe,fully_ripe,0.974833607673645
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_111941.jpg,pale_pink,pink_turns_purple,0.9745843410491944
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9741414785385132
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_114516.jpg,pink_turns_purple,pale_pink,0.9736817479133606
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9714868068695068
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,fully_ripe,over_ripe,0.9695062041282654
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_110740.jpg,over_ripe,fully_ripe,0.9693381786346436
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_114546.jpg,green_immature,fully_ripe,0.9692822694778442
+berrymtl_centerdet_highres_residual,BerryMTL-HighResCenterDet+ResidualCount (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9685460329055786
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.9888070821762084
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9796544909477234
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\00019_20260212_161655_f00000327_t000010.901s.jpg,pink_turns_purple,pale_pink,0.9796066880226136
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.977024495601654
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9749940633773804
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9747204780578612
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_105607.jpg,over_ripe,fully_ripe,0.9719963073730468
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_114516.jpg,fully_ripe,pink_turns_purple,0.9692717790603638
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_114546.jpg,pink_turns_purple,pale_pink,0.968616247177124
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9676085710525512
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9661062955856324
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.9654273390769958
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_110757.jpg,pink_turns_purple,pale_pink,0.9644017815589904
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9642293453216552
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113229.jpg,green_immature,fully_ripe,0.956424593925476
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9562888741493224
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9560285210609436
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9558433294296264
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9554643034934998
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.9520803093910216
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\00019_20260212_161655_f00000327_t000010.901s.jpg,pink_turns_purple,pale_pink,0.9518576264381408
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9515618681907654
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_115015.jpg,green_immature,pink_turns_purple,0.9479347467422484
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9468815326690674
+berrymtl_centerdet_hitile_quality,BerryMTL-HiTile-QualityDet (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pink_turns_purple,pale_pink,0.9443761110305786
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.982437789440155
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_105607.jpg,over_ripe,fully_ripe,0.9811460971832277
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9790046215057372
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_114008.jpg,fully_ripe,green_immature,0.978101909160614
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9780916571617126
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9746118783950806
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9721246957778932
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_110757.jpg,pink_turns_purple,pale_pink,0.9668652415275574
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pale_pink,green_immature,0.9658723473548888
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113229.jpg,green_immature,fully_ripe,0.96198308467865
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_111630.jpg,fully_ripe,green_immature,0.9571947455406188
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,fully_ripe,0.954904317855835
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9537120461463928
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9520428776741028
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9505878686904908
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113919.jpg,pale_pink,pink_turns_purple,0.9503791332244872
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9498048424720764
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_111507.jpg,over_ripe,pink_turns_purple,0.9487967491149902
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9467935562133788
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113345.jpg,pale_pink,green_immature,0.9435274004936218
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,green_immature,0.9433140754699708
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9430620074272156
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9421431422233582
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.9393234252929688
+berrymtl_teacher_aligned_det,BerryMTL-TeacherAlignedDet (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9387152194976808
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_114008.jpg,fully_ripe,green_immature,0.9973468780517578
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_110757.jpg,fully_ripe,green_immature,0.9955412745475768
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9953586459159852
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9951885938644408
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_105607.jpg,over_ripe,fully_ripe,0.9944489002227784
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9943775534629822
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pale_pink,green_immature,0.9929049611091614
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.992259442806244
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_113229.jpg,green_immature,fully_ripe,0.9921869039535522
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9918946623802184
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_111630.jpg,fully_ripe,green_immature,0.9897785782814026
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9890029430389404
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_113345.jpg,pale_pink,green_immature,0.9886704683303832
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,green_immature,0.9884359836578368
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pale_pink,green_immature,0.988292396068573
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9878371953964232
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9877320528030396
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,green_immature,0.9872636198997498
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9872079491615297
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.9870513677597046
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9870262742042542
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9868841171264648
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.9861170649528505
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9853931069374084
+berrymtl_specialist_guided_distill,BerryMTL-SpecialistGuidedDistill (ours),.\data\combined_514\images\20260430_114341.jpg,pink_turns_purple,fully_ripe,0.9847399592399596
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_114008.jpg,fully_ripe,green_immature,0.9959206581115724
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9936956763267516
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_105607.jpg,over_ripe,fully_ripe,0.9936366081237792
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pale_pink,green_immature,0.9931558966636658
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.992533802986145
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.992422878742218
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.990145206451416
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_113229.jpg,green_immature,fully_ripe,0.9885431528091432
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9880302548408508
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_111630.jpg,fully_ripe,green_immature,0.9872402548789978
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_110757.jpg,fully_ripe,green_immature,0.9863735437393188
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,green_immature,0.9860187768936156
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9831136465072632
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pale_pink,green_immature,0.9827154874801636
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,green_immature,0.9826140999794006
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,fully_ripe,0.9824705719947816
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_113229.jpg,pink_turns_purple,pale_pink,0.9814900755882264
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9814650416374208
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9812747836112976
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9812591671943665
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9810288548469543
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_113345.jpg,pale_pink,green_immature,0.9806687235832214
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.9801833629608154
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.979113519191742
+berrymtl_specialist_adapter_fusion,BerryMTL-SpecialistAdapterFusion (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9783489108085632
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_114008.jpg,fully_ripe,green_immature,0.9968336224555968
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9950456619262696
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_105607.jpg,over_ripe,fully_ripe,0.9946224689483644
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9941771030426024
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pale_pink,green_immature,0.9941447377204896
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_105552.jpg,over_ripe,fully_ripe,0.9939470291137696
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9922385811805724
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9912518858909608
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_110757.jpg,fully_ripe,green_immature,0.9912471175193788
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_113229.jpg,green_immature,fully_ripe,0.9904072880744934
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_111630.jpg,fully_ripe,green_immature,0.990224063396454
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,green_immature,0.9884004592895508
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\00257_20260212_161655_f00003374_t000112.478s.jpg,fully_ripe,green_immature,0.9880934357643129
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_111434.jpg,green_immature,fully_ripe,0.9878035187721252
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.987223744392395
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9867751598358154
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\00127_20260212_161655_f00001703_t000056.772s.jpg,pale_pink,green_immature,0.9866315722465516
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9863089323043824
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9858588576316832
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.984798014163971
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.984693169593811
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.982913076877594
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_113251.jpg,over_ripe,fully_ripe,0.9817894101142884
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_113229.jpg,over_ripe,fully_ripe,0.9815545082092284
+berrymtl_specialist_adapter_fusion_uncertainty,BerryMTL-SpecialistAdapterFusion-UW (ours),.\data\combined_514\images\20260430_110647.jpg,over_ripe,fully_ripe,0.979790449142456

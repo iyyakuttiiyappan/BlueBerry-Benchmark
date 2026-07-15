@@ -1,0 +1,171 @@
+{
+  "selected_examples": [
+    {
+      "stem": "20260430_113032",
+      "filename": "20260430_113032.jpg",
+      "Total": 18,
+      "dominant_class": "green_immature"
+    },
+    {
+      "stem": "00007_20260212_161655_f00000198_t000006.601s",
+      "filename": "00007_20260212_161655_f00000198_t000006.601s.jpg",
+      "Total": 154,
+      "dominant_class": "green_immature"
+    }
+  ],
+  "failure_examples": {
+    "detection": [
+      {
+        "stem": "00669_dji_fly_20260217_114521_0_f00000372_t000012.400s",
+        "filename": "00669_dji_fly_20260217_114521_0_f00000372_t000012.400s.jpg",
+        "Total": 269
+      },
+      {
+        "stem": "00611_dji_fly_20260217_114201_0_f00000658_t000021.933s",
+        "filename": "00611_dji_fly_20260217_114201_0_f00000658_t000021.933s.jpg",
+        "Total": 269
+      },
+      {
+        "stem": "00140_20260212_161655_f00001835_t000061.173s",
+        "filename": "00140_20260212_161655_f00001835_t000061.173s.jpg",
+        "Total": 196
+      }
+    ],
+    "segmentation": [
+      {
+        "stem": "20260430_111135",
+        "filename": "20260430_111135.jpg",
+        "Total": 50
+      },
+      {
+        "stem": "20260430_112314",
+        "filename": "20260430_112314.jpg",
+        "Total": 61
+      },
+      {
+        "stem": "20260430_112502",
+        "filename": "20260430_112502.jpg",
+        "Total": 142
+      }
+    ],
+    "counting": [
+      {
+        "stem": "20260430_112502",
+        "filename": "20260430_112502.jpg",
+        "Total": 142
+      },
+      {
+        "stem": "20260430_114546",
+        "filename": "20260430_114546.jpg",
+        "Total": 140
+      },
+      {
+        "stem": "00587_dji_fly_20260217_114201_0_f00000392_t000013.067s",
+        "filename": "00587_dji_fly_20260217_114201_0_f00000392_t000013.067s.jpg",
+        "Total": 86
+      }
+    ]
+  },
+  "classification_failure_examples": [
+    {
+      "stem": "20260430_114008",
+      "filename": "20260430_114008.jpg",
+      "true_class": "fully_ripe",
+      "pred_class": "green_immature",
+      "confidence": 0.9968336224555968
+    },
+    {
+      "stem": "20260430_113229",
+      "filename": "20260430_113229.jpg",
+      "true_class": "over_ripe",
+      "pred_class": "fully_ripe",
+      "confidence": 0.9950456619262696
+    },
+    {
+      "stem": "20260430_105607",
+      "filename": "20260430_105607.jpg",
+      "true_class": "over_ripe",
+      "pred_class": "fully_ripe",
+      "confidence": 0.9946224689483644
+    },
+    {
+      "stem": "20260430_105552",
+      "filename": "20260430_105552.jpg",
+      "true_class": "over_ripe",
+      "pred_class": "fully_ripe",
+      "confidence": 0.9941771030426024
+    },
+    {
+      "stem": "00127_20260212_161655_f00001703_t000056.772s",
+      "filename": "00127_20260212_161655_f00001703_t000056.772s.jpg",
+      "true_class": "pale_pink",
+      "pred_class": "green_immature",
+      "confidence": 0.9941447377204896
+    },
+    {
+      "stem": "20260430_105552",
+      "filename": "20260430_105552.jpg",
+      "true_class": "over_ripe",
+      "pred_class": "fully_ripe",
+      "confidence": 0.9939470291137696
+    }
+  ],
+  "methods": [
+    [
+      "berrymtl_centerdet_agnostic",
+      "Agnostic+ROI"
+    ],
+    [
+      "berrymtl_centerdet_plus",
+      "Contrastive"
+    ],
+    [
+      "berrymtl_centerdet_tiletrain",
+      "TileTrain"
+    ],
+    [
+      "berrymtl_centerdet_shared_matched",
+      "Shared"
+    ],
+    [
+      "berrymtl_centerdet_decoupled_residual",
+      "Decoupled+Residual"
+    ],
+    [
+      "berrymtl_centerdet_highres_residual",
+      "HighRes"
+    ],
+    [
+      "berrymtl_centerdet_hitile_quality",
+      "HiTile+Quality"
+    ],
+    [
+      "berrymtl_teacher_aligned_det",
+      "TeacherAligned"
+    ],
+    [
+      "berrymtl_specialist_adapter_fusion",
+      "AdapterFusion"
+    ],
+    [
+      "berrymtl_specialist_adapter_fusion_uncertainty",
+      "AdapterFusion-UW"
+    ]
+  ],
+  "files": [
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\qualitative_montages_large\\unified_four_task_examples_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\qualitative_montages_large\\detection_examples_unified_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\qualitative_montages_large\\segmentation_examples_unified_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\qualitative_montages_large\\counting_examples_unified_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\qualitative_montages_large\\classification_examples_unified_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\ablation_montages_large\\ablation_detection_comparison_montage_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\ablation_montages_large\\ablation_segmentation_comparison_montage_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\ablation_montages_large\\ablation_counting_comparison_montage_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\ablation_montages_large\\ablation_classification_comparison_montage_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\ablation_montages_large\\ablation_metric_summary_montage_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\failure_montages_large\\detection_failure_cases_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\failure_montages_large\\segmentation_failure_cases_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\failure_montages_large\\counting_failure_cases_large.jpg",
+    "C:\\Users\\ADMIN\\Documents\\Silal\\outputs\\fresh_benchmark_514\\paper_ready\\failure_montages_large\\classification_failure_cases_large.jpg"
+  ]
+}

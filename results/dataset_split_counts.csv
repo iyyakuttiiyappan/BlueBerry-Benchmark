@@ -1,0 +1,4 @@
+split,images
+train,360
+val,77
+test,77

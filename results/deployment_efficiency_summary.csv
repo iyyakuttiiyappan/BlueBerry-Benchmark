@@ -1,0 +1,4 @@
+system,tasks,backbones,forward_passes,parameters,parameters_m,fp32_mb,relative_parameters,reduction_percent,note
+Four best specialist pipelines,4,4,4,113657481.0,113.657481,454.629924,1.0,0.0,"Best isolated detector, segmenter, counter and classifier deployed separately."
+BerryMTL-AdapterFusion-UW,4,1,1,31727178.0,31.727178,126.908712,0.2791472916771752,72.08527083228248,One shared encoder with task-specific heads.
+BerryMTL-HiTile-QualityDet,4,1,1,31582358.0,31.582358,126.329432,0.27787311246146656,72.21268875385334,One shared encoder with task-specific heads.
