@@ -1,6 +1,6 @@
 # Blueberry Benchmark
 
-This repository contains the benchmark code, result tables, figures for the Silal blueberry multi-task benchmark.
+This repository contains the benchmark code, result tables, figures for the blueberry multi-task benchmark.
 
 Contact details for data access: iyyakutti.ganapathi@ku.ac.ae.
 
