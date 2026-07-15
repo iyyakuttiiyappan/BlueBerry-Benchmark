@@ -27,10 +27,10 @@ The benchmark evaluates four tasks:
 It compares specialist baselines with unified BerryMTL variants that produce all four outputs from one shared model.
 
 ## BerryMTL
-<img src="figures/unified_four_task_examples_large.png" width="700" alt="Accuracy comparison">
+<img src="figures/unified_four_task_examples_large.jpg" width="700" alt="Accuracy comparison">
 
 ## Performance Comparison
-![Task performance across all benchmarks](figures/unified_vs_specialist_heatmap_montage_large.png)
+![Task performance across all benchmarks](figures/unified_vs_specialist_heatmap_montage_large.jpg)
 
 ## Reproducibility
 
