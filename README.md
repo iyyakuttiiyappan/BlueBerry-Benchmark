@@ -1,4 +1,4 @@
-# Silal Blueberry Benchmark
+# Blueberry Benchmark
 
 This repository contains the benchmark code, result tables, figures for the Silal blueberry multi-task benchmark.
 
