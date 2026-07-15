@@ -2,7 +2,7 @@
 
 This repository snapshot contains the benchmark code, result tables, figures for the Silal blueberry multi-task benchmark.
 
-Data access details: iyyakutti.ganapathi@ku.ac.ae.
+Contact details for data access: iyyakutti.ganapathi@ku.ac.ae.
 
 ## Contents
 
