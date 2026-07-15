@@ -8,7 +8,7 @@ Contact details for data access: iyyakutti.ganapathi@ku.ac.ae.
 
 ```text
 configs/                 Benchmark configuration
-figures/                 Paper-ready benchmark figures
+figures/                 Benchmark figures
 results/                 Key benchmark CSV tables
 scripts/                 Benchmark, visualization, and bundle-building scripts
 src/blueberry_multitask/ Source package used by benchmark scripts
