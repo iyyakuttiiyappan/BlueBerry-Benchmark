@@ -1,16 +1,8 @@
 # Silal Blueberry Benchmark
 
-This repository snapshot contains the benchmark code, result tables, figures, and LaTeX manuscript assets for the Silal blueberry multi-task benchmark.
+This repository snapshot contains the benchmark code, result tables, figures for the Silal blueberry multi-task benchmark.
 
-It is intentionally **benchmark-only**:
-
-- no raw RGB images
-- no mask files
-- no trained checkpoints
-- no dataset download links
-- no dataset links
-
-Data access details are omitted and can be added after manuscript acceptance.
+Data access details: iyyakutti.ganapathi@ku.ac.ae.
 
 ## Contents
 
